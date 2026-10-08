@@ -8,15 +8,15 @@
   <title>395 秋日路书 · 照片行程</title>
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="vendor/markercluster/MarkerCluster.css">
-  <link rel="stylesheet" href="mobile.css?v=20261008-8">
+  <link rel="stylesheet" href="mobile.css?v=20261008-9">
   <script src="vendor/leaflet/leaflet.js" defer></script>
   <script src="vendor/markercluster/leaflet.markercluster.js" defer></script>
-  <script src="guide-data.js?v=20261008-8" defer></script>
-  <script src="trip-map-data.js?v=20261008-8" defer></script>
-  <script src="fall-state.js?v=20261008-8" defer></script>
-  <script src="fall-state-ui.js?v=20261008-8" defer></script>
-  <script src="mobile.js?v=20261008-8" defer></script>
-  <script src="trip-map.js?v=20261008-8" defer></script>
+  <script src="guide-data.js?v=20261008-9" defer></script>
+  <script src="trip-map-data.js?v=20261008-9" defer></script>
+  <script src="fall-state.js?v=20261008-9" defer></script>
+  <script src="fall-state-ui.js?v=20261008-9" defer></script>
+  <script src="mobile.js?v=20261008-9" defer></script>
+  <script src="trip-map.js?v=20261008-9" defer></script>
 </head>
 <body>
   <header class="mast"><div class="container mast-inner">
@@ -38,7 +38,7 @@
         <div class="trip-map-filters" role="group" aria-label="按天筛选地图"><button data-map-day="east" aria-pressed="true">景点区</button><button data-map-day="all" aria-pressed="false">全程</button><button data-map-day="0" aria-pressed="false">周五</button><button data-map-day="1" aria-pressed="false">周六</button><button data-map-day="2" aria-pressed="false">周日</button><label><input type="checkbox" id="show-trip-optional" checked>备选</label></div>
         <div id="trip-map" role="region" aria-label="我们的三天行程地图"></div>
         <div id="overlay-fall-legend" class="fall-legend"></div>
-        <div class="trip-map-legend"><span class="trip-friday">● 周五</span><span class="trip-saturday">● 周六</span><span class="trip-sunday">● 周日</span><span>数字＝当天顺序 · ＋＝备选 · N站＝点开放大</span></div>
+        <div class="trip-map-legend"><span class="trip-friday">● 周五</span><span class="trip-saturday">● 周六</span><span class="trip-sunday">● 周日</span><span>数字＝当天顺序 · ＋＝备选 · 聚合数字＝点开放大</span></div>
         <p class="fall-note">编号和道路是我们的行程，彩色 🍁 来自 Fall Map；点标记看时间、照片、状态与导航。原图通常周五更新，可能落后文字报告；同步时间不是现场观测时间。道路通行另查 Caltrans。</p>
         <details class="trip-stop-list"><summary>逐站清单 · 点名字定位</summary><div id="trip-stop-buttons"></div></details>
       </div>
