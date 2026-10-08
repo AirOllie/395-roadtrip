@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "entries": {
     "south": {
       "id": "south",
@@ -20,10 +20,10 @@
       "id": "sabrina",
       "name": "Lake Sabrina",
       "place": "Bishop Creek",
-      "dish": "湖边看山与秋色",
+      "dish": "停车观湖与秋色",
       "tag": "湖景收尾",
-      "hint": "湖边短走 30–45 分钟。",
-      "pitfall": "下午山影增多；风雨或落后计划就缩短，不再叠加 North Lake 窄路。",
+      "hint": "停车区附近观湖，散步 10–20 分钟即可。",
+      "pitfall": "不进入通往高山湖的徒步路线；下午山影增多，风雨或落后计划就缩短。",
       "image": "photos/6ac17d8f000000001203d9c5-photo.jpg",
       "photoSource": "https://www.xiaohongshu.com/explore/6ac17d8f000000001203d9c5",
       "credit": "小红书 · nono在找房 · 首图",
@@ -65,10 +65,10 @@
       "id": "mcgee",
       "name": "McGee Creek",
       "place": "McGee Creek Trailhead",
-      "dish": "山谷短步道",
-      "tag": "走走就好",
-      "hint": "前段走 20–30 分钟后折返。",
-      "pitfall": "停车可能满、下午阴影增多；不用把长线徒步塞进三天。",
+      "dish": "溪谷徒步留给下次",
+      "tag": "本次不安排",
+      "hint": "保留照片与原帖供查阅，已移出两条行程。",
+      "pitfall": "本次以观景自驾为主，不进入 McGee Creek 步道；停车、步行与折返会挤占休息时间。",
       "image": "photos/6ac335c3000000001903b000-photo.jpg",
       "photoSource": "https://www.xiaohongshu.com/explore/6ac335c3000000001903b000",
       "credit": "小红书 · 马野野 · 首图",
@@ -82,8 +82,8 @@
       "place": "June Lake Loop · Day Use Area",
       "dish": "湖边白杨与山景",
       "tag": "轻松路线主角",
-      "hint": "从 158 北入口进入，湖边短走。",
-      "pitfall": "六月湖环线颜色较局部，不等于整片全黄；只在开放区域停车。",
+      "hint": "从 158 北入口进入，停车后沿湖边散步 10–20 分钟。",
+      "pitfall": "不走山间步道；六月湖环线颜色较局部，不等于整片全黄，只在开放区域停车。",
       "image": "images/silver.jpg",
       "photoSource": "https://www.monocounty.org/things-to-do/fall-colors/",
       "credit": "Mono County Tourism · Emily Bryant · 2026/10/5",
@@ -97,8 +97,8 @@
       "place": "Convict Lake · 湖边停车区",
       "dish": "倒影、湖水与山壁",
       "tag": "返程前短停",
-      "hint": "湖边走 20–30 分钟即可。",
-      "pitfall": "大风时倒影不保证；雨雪或返程延误就删除这一站。",
+      "hint": "停车区附近湖岸散步 10–20 分钟即可。",
+      "pitfall": "不走完整环湖或 Convict Creek 徒步；大风时倒影不保证，雨雪或返程延误就删除这一站。",
       "image": "images/convict.jpg",
       "photoSource": "https://www.monocounty.org/things-to-do/fall-colors/",
       "credit": "Mono County Tourism · Liz Grans · 2026/10/6",
@@ -555,7 +555,7 @@
             "type": "stop",
             "time": "15:45–16:30",
             "id": "sabrina",
-            "note": "湖边短走，留日光回 Mammoth。",
+            "note": "停车区观湖，散步 10–20 分钟；不进高山步道。",
             "drive": "约 1–1.25 小时到 Mammoth"
           },
           {
@@ -606,7 +606,7 @@
             "type": "stop",
             "time": "08:40–09:10",
             "id": "convict",
-            "note": "湖边短走后马上返程。",
+            "note": "停车区附近散步 10–20 分钟，不走完整环湖；随后返程。",
             "drive": ""
           },
           {
@@ -656,9 +656,9 @@
     {
       "id": "calm",
       "name": "看湖慢游",
-      "label": "June Lake · 湖边散步 + 溪谷",
+      "label": "June Lake · 停车观景 + 湖岸散步",
       "image": "images/silver.jpg",
-      "tag": "周六少开些",
+      "tag": "紧凑周末首选",
       "drive": "全程驾驶粗估 14–17 小时",
       "days": [
         [
@@ -742,15 +742,8 @@
               "toomeys",
               "noodle"
             ],
-            "note": "三选一 · 可丽饼和 Noodle‑Ly 午餐有结束时间，别拖太晚。",
+            "note": "三选一 · 午餐后在镇内休息，下午只去地热观景；不叠加溪谷徒步。可丽饼和 Noodle‑Ly 午餐别拖太晚。",
             "key": "sat-lunch-calm"
-          },
-          {
-            "type": "stop",
-            "time": "14:00–14:45",
-            "id": "mcgee",
-            "note": "步道前段折返，不做长线。",
-            "drive": "约 20–30 分钟"
           },
           {
             "type": "stop",
@@ -800,7 +793,7 @@
             "type": "stop",
             "time": "08:00–08:30",
             "id": "convict",
-            "note": "短走拍照，09:00–09:30 开始返程。",
+            "note": "湖岸散步 10–20 分钟，不走完整环湖；09:00–09:30 开始返程。",
             "drive": ""
           },
           {
@@ -843,7 +836,7 @@
       ],
       "summary": [
         "晚餐 → Sonora",
-        "翻山 → Silver Lake → McGee → 地热",
+        "翻山 → Silver Lake → 午后休息 → 地热",
         "Convict → Carson City → San Jose"
       ]
     }
@@ -2245,7 +2238,7 @@
       "verdict": "优先",
       "car": "稳妥",
       "reason": "路边秋林、蓝色湖水与山景；与 South Lake Road 组合。",
-      "pitfall": "热门时段停车难；避免黄昏才到，雨雪来临不深入高处。",
+      "pitfall": "不进入高山湖徒步路线。热门时段停车难；避免黄昏才到，雨雪来临不深入高处。",
       "sources": [
         "6ac34583000000001801b992",
         "6ac17d8f000000001203d9c5",
@@ -2264,7 +2257,7 @@
         "6ab9cafa000000001500f8d7",
         "6ac0870500000000140125f0"
       ],
-      "time": "45–60 分钟",
+      "time": "停车观湖，散步 10–20 分钟",
       "photoSource": "6ac17d8f000000001203d9c5",
       "navQuery": "Lake Sabrina Bishop CA"
     },
@@ -2313,7 +2306,7 @@
       "verdict": "优先",
       "car": "稳妥",
       "reason": "山壁与倒影辨识度高，可只走湖边短段。",
-      "pitfall": "晨风会打碎倒影；本周日可能雨雪，改为短停或直接返程。",
+      "pitfall": "只在停车区附近湖岸散步，不走完整环湖或 Convict Creek 步道。晨风会打碎倒影；本周日可能雨雪，改为短停或直接返程。",
       "sources": [
         "6ac1825f000000001403b6af",
         "6ac48679000000001901cc00",
@@ -2326,7 +2319,7 @@
         "6abca68c000000000e03c800",
         "6ab7b49c0000000018012220"
       ],
-      "time": "30–60 分钟",
+      "time": "10–20 分钟",
       "photoSource": "6ac50f290000000019038800",
       "navQuery": "Convict Lake Day Use Picnic Area CA"
     },
@@ -2373,10 +2366,10 @@
       "kind": "景点",
       "lat": 37.55,
       "lon": -118.795,
-      "verdict": "优先",
+      "verdict": "跳过",
       "car": "谨慎",
       "reason": "近期实拍推荐，前段河谷已有秋林，短走折返即可。",
-      "pitfall": "详细新帖建议上午与 9 点前停车；满位可跳过。末段碎石低底盘谨慎，只走前段，周日不安排长徒步。",
+      "pitfall": "本次已取消徒步安排，留待下次专程。详细新帖建议上午与 9 点前停车；满位可跳过。末段碎石低底盘谨慎，只走前段，周日不安排长徒步。",
       "sources": [
         "6ac48679000000001901cc00",
         "6ac34583000000001801b992",
@@ -2386,7 +2379,7 @@
         "6ac54be600000000150053dd",
         "6abb1cfd000000000f03a000"
       ],
-      "time": "60–90 分钟",
+      "time": "本次不安排",
       "photoSource": "6ac335c3000000001903b000",
       "navQuery": "McGee Creek Trailhead Crowley Lake CA"
     },
@@ -2519,7 +2512,7 @@
       "verdict": "跳过",
       "car": "不适合",
       "reason": "石柱地貌很特别，作为下次专程目标。",
-      "pitfall": "轿车不走石柱越野支路；大坑陡坡，步行需约 3 小时预算、无遮挡。本次不排。",
+      "pitfall": "本次已取消徒步安排，留待下次专程。轿车不走石柱越野支路；大坑陡坡，步行需约 3 小时预算、无遮挡。本次不排。",
       "sources": [
         "6ac1825f000000001403b6af",
         "6ac4fd64000000001500a8db",
@@ -2546,7 +2539,7 @@
       "verdict": "跳过",
       "car": "谨慎",
       "reason": "高山湖徒步体验突出，适合另一次早起行程。",
-      "pitfall": "高海拔、停车场小、季节更早；本周末雨雪风险，不挤进两天白天。",
+      "pitfall": "本次已取消徒步安排，留待下次专程。高海拔、停车场小、季节更早；本周末雨雪风险，不挤进两天白天。",
       "sources": [
         "6ac4fd64000000001500a8db",
         "6ac5ddd1000000000b0056c2",
@@ -2567,10 +2560,10 @@
       "kind": "景点",
       "lat": 38.023,
       "lon": -119.241,
-      "verdict": "备选",
+      "verdict": "跳过",
       "car": "谨慎",
       "reason": "溪谷白杨景观，可作为未来北段徒步选项。",
-      "pitfall": "近期帖称末段长土路、低底盘慎入、停车有限；本次轿车不在风雨天探路。",
+      "pitfall": "本次已取消徒步安排，留待下次专程。近期帖称末段长土路、低底盘慎入、停车有限；本次轿车不在风雨天探路。",
       "sources": [
         "6ac48f3b000000001500d129"
       ],
