@@ -8,13 +8,15 @@
   <title>395 秋日路书 · 照片行程</title>
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="vendor/markercluster/MarkerCluster.css">
-  <link rel="stylesheet" href="mobile.css?v=20261008-7">
+  <link rel="stylesheet" href="mobile.css?v=20261008-8">
   <script src="vendor/leaflet/leaflet.js" defer></script>
   <script src="vendor/markercluster/leaflet.markercluster.js" defer></script>
-  <script src="guide-data.js?v=20261008-7" defer></script>
-  <script src="trip-map-data.js?v=20261008-7" defer></script>
-  <script src="mobile.js?v=20261008-7" defer></script>
-  <script src="trip-map.js?v=20261008-7" defer></script>
+  <script src="guide-data.js?v=20261008-8" defer></script>
+  <script src="trip-map-data.js?v=20261008-8" defer></script>
+  <script src="fall-state.js?v=20261008-8" defer></script>
+  <script src="fall-state-ui.js?v=20261008-8" defer></script>
+  <script src="mobile.js?v=20261008-8" defer></script>
+  <script src="trip-map.js?v=20261008-8" defer></script>
 </head>
 <body>
   <header class="mast"><div class="container mast-inner">
@@ -31,12 +33,13 @@
     </section>
     <section class="fall-card" id="fall-map" aria-labelledby="fall-map-title">
       <div class="fall-heading"><div><p class="eyebrow">395 ROAD TRIP · MAPS</p><h2 id="fall-map-title">我们的路线与沿线秋色</h2></div><button id="refresh-fall-map" class="refresh-map">刷新 ↻</button></div>
-      <div class="map-view-tabs" role="group" aria-label="地图视图"><button data-map-view="trip" aria-pressed="true">我们的路线</button><button data-map-view="fall" aria-pressed="false">秋色实况</button></div>
+      <p class="fall-note" id="fall-sync-status" role="status">正在载入 Fall Map 状态…</p><div class="overlay-controls"><label><input type="checkbox" id="show-trip-route" checked>我们的路线</label><label><input type="checkbox" id="show-fall-overlay" checked>🍁 秋色叠加</label><button data-map-view="fall" aria-pressed="false">看原图</button><button data-map-view="trip" aria-pressed="true" hidden>回叠加图</button></div>
       <div id="trip-map-panel">
         <div class="trip-map-filters" role="group" aria-label="按天筛选地图"><button data-map-day="east" aria-pressed="true">景点区</button><button data-map-day="all" aria-pressed="false">全程</button><button data-map-day="0" aria-pressed="false">周五</button><button data-map-day="1" aria-pressed="false">周六</button><button data-map-day="2" aria-pressed="false">周日</button><label><input type="checkbox" id="show-trip-optional" checked>备选</label></div>
         <div id="trip-map" role="region" aria-label="我们的三天行程地图"></div>
+        <div id="overlay-fall-legend" class="fall-legend"></div>
         <div class="trip-map-legend"><span class="trip-friday">● 周五</span><span class="trip-saturday">● 周六</span><span class="trip-sunday">● 周日</span><span>数字＝当天顺序 · ＋＝备选 · N站＝点开放大</span></div>
-        <p class="fall-note">点标记看时间、照片与导航。餐饮、住宿按城镇归组；道路线仅示意走向，通行以现场导航及 Caltrans 为准。</p>
+        <p class="fall-note">编号和道路是我们的行程，彩色 🍁 来自 Fall Map；点标记看时间、照片、状态与导航。原图通常周五更新，可能落后文字报告；同步时间不是现场观测时间。道路通行另查 Caltrans。</p>
         <details class="trip-stop-list"><summary>逐站清单 · 点名字定位</summary><div id="trip-stop-buttons"></div></details>
       </div>
       <div id="fall-map-panel" hidden>

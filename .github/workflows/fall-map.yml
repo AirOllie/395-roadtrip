@@ -1,0 +1,76 @@
+name: Sync Fall Map and publish roadbook
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '23 */6 * 9-11 *'
+permissions:
+  contents: read
+concurrency:
+  group: roadbook-pages
+  cancel-in-progress: false
+jobs:
+  sync-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    outputs:
+      sync-outcome: ${{ steps.sync.outcome }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Verify state parser and failure behavior
+        run: python3 -m unittest discover -s tests -v
+      - name: Read current public Fall Map
+        id: sync
+        continue-on-error: true
+        run: python3 scripts/sync_fall_map.py
+      - name: Save state and synchronization health
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add 秋色状态.json fall-state.js
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update published Fall Map state and sync time'
+            git push origin HEAD:main
+          fi
+      - name: Prepare static roadbook
+        run: |
+          python3 - <<'PY'
+          import os, shutil
+          from pathlib import Path
+          target = Path(os.environ['RUNNER_TEMP']) / 'roadtrip-site'
+          target.mkdir()
+          for item in Path('.').iterdir():
+              if item.name.startswith('.') or item.name in {'scripts', 'tests'}:
+                  continue
+              if item.is_dir():
+                  shutil.copytree(item, target / item.name)
+              else:
+                  shutil.copy2(item, target / item.name)
+          PY
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/roadtrip-site
+          retention-days: 1
+  deploy:
+    needs: sync-build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Report unsuccessful source synchronization
+        if: needs.sync-build.outputs.sync-outcome != 'success'
+        run: |
+          echo 'Published last good data with a visible synchronization warning.'
+          exit 1
