@@ -1,0 +1,212 @@
+[
+  {
+    "id": "south",
+    "name": "South Lake Road",
+    "image": "photos/6abfbda00000000018006927-photo.jpg",
+    "source": "https://www.xiaohongshu.com/explore/6abfbda00000000018006927",
+    "credit": "小红书 · DRZ · 首图"
+  },
+  {
+    "id": "sabrina",
+    "name": "Lake Sabrina",
+    "image": "photos/6ac17d8f000000001203d9c5-photo.jpg",
+    "source": "https://www.xiaohongshu.com/explore/6ac17d8f000000001203d9c5",
+    "credit": "小红书 · nono在找房 · 首图"
+  },
+  {
+    "id": "conway",
+    "name": "Conway Summit",
+    "image": "photos/6ac482c3000000001901d000-photo.jpg",
+    "source": "https://www.xiaohongshu.com/explore/6ac482c3000000001901d000",
+    "credit": "小红书 · ChrisShan_OvO · 首图"
+  },
+  {
+    "id": "hot",
+    "name": "Hot Creek / Brees Lookout",
+    "image": "photos/6ab32e50000000001301af48-photo.jpg",
+    "source": "https://www.xiaohongshu.com/explore/6ab32e50000000001301af48",
+    "credit": "小红书 · Itsxxling · 首图"
+  },
+  {
+    "id": "mcgee",
+    "name": "McGee Creek",
+    "image": "photos/6ac335c3000000001903b000-photo.jpg",
+    "source": "https://www.xiaohongshu.com/explore/6ac335c3000000001903b000",
+    "credit": "小红书 · 马野野 · 首图"
+  },
+  {
+    "id": "silver",
+    "name": "Silver Lake",
+    "image": "images/silver.jpg",
+    "source": "https://www.monocounty.org/things-to-do/fall-colors/",
+    "credit": "Mono County Tourism · Emily Bryant · 2026/10/5"
+  },
+  {
+    "id": "convict",
+    "name": "Convict Lake",
+    "image": "images/convict.jpg",
+    "source": "https://www.monocounty.org/things-to-do/fall-colors/",
+    "credit": "Mono County Tourism · Liz Grans · 2026/10/6"
+  },
+  {
+    "id": "pass",
+    "name": "Sonora Pass",
+    "image": "images/sonora-pass.jpg",
+    "source": "https://www.monocounty.org/things-to-do/fall-colors/",
+    "credit": "Mono County Tourism · Amanda Carlson · 2026/10/5"
+  },
+  {
+    "id": "la-victoria",
+    "name": "La Victoria",
+    "image": "images/la-victoria.jpg",
+    "source": "https://www.lavicsj.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "pho-hanoi",
+    "name": "Phở Hà Nội",
+    "image": "images/pho-hanoi.jpg",
+    "source": "https://phohanoi.com/san-jose-en.html",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "in-n-out",
+    "name": "In‑N‑Out",
+    "image": "images/in-n-out.png",
+    "source": "https://locations.in-n-out.com/240",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "day-o",
+    "name": "Day‑O Espresso",
+    "image": "images/day-o.jpg",
+    "source": "https://dayoespresso.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "revive",
+    "name": "Revive Coffee",
+    "image": "images/revive.jpg",
+    "source": "https://www.revivecoffee.co/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "hotel-breakfast",
+    "name": "Sonora Inn 早餐",
+    "image": "images/sonora-breakfast.webp",
+    "source": "https://www.thesonorainn.com/about/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "schat",
+    "name": "Erick Schat’s",
+    "image": "images/schat.png",
+    "source": "https://www.xiaohongshu.com/explore/6a67a9590000000001003359",
+    "credit": "小红书 · Qin · 图 4"
+  },
+  {
+    "id": "holy-smoke",
+    "name": "Holy Smoke BBQ",
+    "image": "images/holy-smoke.avif",
+    "source": "https://www.holysmoketexasbbq.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "mahogany",
+    "name": "Mahogany Smoked Meats",
+    "image": "images/mahogany.avif",
+    "source": "https://smokedmeats.com/pages/locations",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "toomeys",
+    "name": "Toomey’s",
+    "image": "images/toomeys.png",
+    "source": "https://www.xiaohongshu.com/explore/6a67a9590000000001003359",
+    "credit": "小红书 · Qin · 图 3"
+  },
+  {
+    "id": "noodle",
+    "name": "Noodle‑Ly",
+    "image": "images/noodle-ly.png",
+    "source": "https://www.xiaohongshu.com/explore/6a435152000000000e031400",
+    "credit": "小红书 · Sunny在奔跑！ · 图 7"
+  },
+  {
+    "id": "dosalas",
+    "name": "Dos Alas",
+    "image": "photos/6ab60d6e000000000e03f000-photo.jpg",
+    "source": "https://www.xiaohongshu.com/explore/6ab60d6e000000000e03f000",
+    "credit": "小红书 · 拉布拉mo（2026减脂版） · 首图"
+  },
+  {
+    "id": "crepe",
+    "name": "Café Crêpe",
+    "image": "images/crepe.jpg",
+    "source": "https://cafecrepemammoth.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "mammoth-coffee",
+    "name": "Mammoth Coffee",
+    "image": "images/mammoth-coffee.jpg",
+    "source": "https://www.visitmammoth.com/directory/mammoth-coffee-roasting-company/",
+    "credit": "Visit Mammoth · 商家提供照片"
+  },
+  {
+    "id": "stellar",
+    "name": "Stellar Brew",
+    "image": "images/stellar.png",
+    "source": "https://www.xiaohongshu.com/explore/6a435152000000000e031400",
+    "credit": "小红书 · Sunny在奔跑！ · 图 12"
+  },
+  {
+    "id": "great-basin",
+    "name": "Great Basin",
+    "image": "images/great-basin.webp",
+    "source": "https://www.greatbasinbrewingco.com/carson-city",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "fox",
+    "name": "The Fox",
+    "image": "images/fox.webp",
+    "source": "https://foxpubs.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "red-hut",
+    "name": "Red Hut Café",
+    "image": "images/red-hut.webp",
+    "source": "https://visitcarsoncity.com/food-and-drink/red-hut-cafe/",
+    "credit": "Visit Carson City · 餐厅店面"
+  },
+  {
+    "id": "sonora-inn",
+    "name": "Sonora Inn",
+    "image": "images/sonora-inn.webp",
+    "source": "https://www.thesonorainn.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "heritage",
+    "name": "Heritage Inn",
+    "image": "images/heritage.webp",
+    "source": "https://www.heritageyosemite.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "alpenhof",
+    "name": "Alpenhof Lodge",
+    "image": "images/alpenhof.jpg",
+    "source": "https://www.alpenhof-lodge.com/",
+    "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "limelight",
+    "name": "Limelight Mammoth",
+    "image": "images/limelight.jpeg",
+    "source": "https://www.limelighthotels.com/mammoth/stay",
+    "credit": "官网实景 / 餐点图"
+  }
+]
