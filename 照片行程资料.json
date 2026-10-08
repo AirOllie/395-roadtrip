@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "entries": {
     "south": {
       "id": "south",
@@ -67,7 +67,7 @@
       "place": "McGee Creek Trailhead",
       "dish": "溪谷徒步留给下次",
       "tag": "本次不安排",
-      "hint": "保留照片与原帖供查阅，已移出两条行程。",
+      "hint": "保留照片与原帖供查阅，已移出本次行程。",
       "pitfall": "本次以观景自驾为主，不进入 McGee Creek 步道；停车、步行与折返会挤占休息时间。",
       "image": "photos/6ac335c3000000001903b000-photo.jpg",
       "photoSource": "https://www.xiaohongshu.com/explore/6ac335c3000000001903b000",
@@ -112,7 +112,7 @@
       "place": "CA‑108 · 山口",
       "dish": "白天翻山的秋景",
       "tag": "通行才走",
-      "hint": "10:00 出门吃早餐，约 12:15 经过山口；预报强风，以通过为主。",
+      "hint": "09:00–10:00 吃完早餐，10:00 出发；约 11:45 经过山口；预报强风，以通过为主。",
       "pitfall": "时间是粗估。必须先检查 CA‑108 封路与链条要求，不满足通行条件就改路或缩短旅行。",
       "image": "images/sonora-pass.jpg",
       "photoSource": "https://www.monocounty.org/things-to-do/fall-colors/",
@@ -157,8 +157,8 @@
       "place": "Sonora · 160 S Washington St",
       "dish": "住客 Continental Breakfast",
       "tag": "少折腾",
-      "hint": "住客备选；先问前台能否在 10:00 用餐或提前打包。",
-      "pitfall": "只供入住客人，官网未列早餐结束时间；不符合 10:00 用餐安排就选另外两家。配图为早餐区。",
+      "hint": "住客备选；09:00–10:00 吃完，提前问前台早餐结束时间。",
+      "pitfall": "只供入住客人，官网未列早餐结束时间；无法在 09:00–10:00 用餐就选另外两家。配图为早餐区。",
       "image": "images/sonora-breakfast.webp",
       "photoSource": "https://www.thesonorainn.com/about/",
       "credit": "官网实景 / 餐点图",
@@ -338,10 +338,10 @@
       "dish": "Double‑Double 套餐",
       "tag": "赶路快餐备选",
       "hint": "周日 10:30–次日 01:00，US‑395 旁。",
-      "pitfall": "品牌官网补充候选，不是小红书实吃推荐。配图为该 Carson City 分店；排队较长时外带并控制休息时间。",
-      "image": "images/in-n-out-carson.jpg",
+      "pitfall": "品牌官网补充候选，不是小红书实吃推荐。配图为品牌通用套餐，不是 Carson City 分店实吃照；排队较长时比较另外两家。",
+      "image": "images/in-n-out-carson.png",
       "photoSource": "https://locations.in-n-out.com/187-Carson-City",
-      "credit": "In‑N‑Out 官网 · Carson City 分店实景",
+      "credit": "In‑N‑Out 官网 · 通用套餐图",
       "postId": null,
       "pointId": null,
       "official": "https://locations.in-n-out.com/187-Carson-City"
@@ -360,6 +360,96 @@
       "postId": null,
       "pointId": null,
       "official": "https://visitcarsoncity.com/food-and-drink/red-hut-cafe/"
+    },
+    "nicelys": {
+      "id": "nicelys",
+      "name": "Nicely’s Restaurant",
+      "place": "Lee Vining · US‑395 / Fourth St",
+      "dish": "炸鸡 / 三明治 / 热汤",
+      "tag": "坐下吃午餐",
+      "hint": "商会列每日 07:00–20:00。",
+      "pitfall": "Lee Vining 商会补充候选，配图为店面；不是小红书实吃推荐。菜单和营业以当天为准。",
+      "image": "images/nicelys.jpg",
+      "photoSource": "https://www.leevining.com/nicelys",
+      "credit": "Lee Vining 商会 · 餐厅店面",
+      "postId": null,
+      "pointId": null,
+      "official": "https://www.leevining.com/nicelys"
+    },
+    "basin": {
+      "id": "basin",
+      "name": "The Basin Cafe",
+      "place": "Lee Vining · 349 Lee Vining Ave",
+      "dish": "美式午餐 · 花园咖啡馆",
+      "tag": "镇内备选",
+      "hint": "商会列周六 07:00–20:45。",
+      "pitfall": "位于 Lakeview Lodge 花园，配图为店面。商会资料补充，不是旧 Epic Cafe 店评；点餐前看当天菜单。",
+      "image": "images/basin.jpg",
+      "photoSource": "https://www.leevining.com/basin-cafe",
+      "credit": "Lee Vining 商会 · The Basin Cafe 店面",
+      "postId": null,
+      "pointId": null,
+      "official": "https://www.leevining.com/basin-cafe"
+    },
+    "whoa": {
+      "id": "whoa",
+      "name": "Whoa Nellie Deli",
+      "place": "Lee Vining · 22 Vista Point Dr",
+      "dish": "Fish Tacos / 三明治",
+      "tag": "先确认季节营业",
+      "hint": "官网午晚餐 11:00–21:00；出发前先打电话。",
+      "pitfall": "760‑647‑1088 确认 10/10 厨房营业后才选。旅游局列季节营业至 10 月首周，与官网常规时段有差异；未确认就选前两家。配图为官网招牌。",
+      "image": "images/whoa.jpg",
+      "photoSource": "https://www.whoanelliedeli.com/info",
+      "credit": "Whoa Nellie Deli 官网 · 店外招牌",
+      "postId": null,
+      "pointId": null,
+      "official": "https://www.whoanelliedeli.com/menu-1"
+    },
+    "independent": {
+      "id": "independent",
+      "name": "The Independent",
+      "place": "Placerville · 629 Main St #102",
+      "dish": "美式主菜 / 周日 Prime Rib",
+      "tag": "坐下吃晚餐",
+      "hint": "周日 11:30–20:00，建议提前订位。",
+      "pitfall": "530‑344‑7645；周日 Prime Rib 先问是否还有。配图为官网主菜示例，不保证当天供应或摆盘。没有订位就比较另外两家。",
+      "image": "images/independent.jpg",
+      "photoSource": "https://www.independentplacerville.com/home",
+      "credit": "The Independent 官网 · 主菜照片",
+      "postId": null,
+      "pointId": null,
+      "official": "https://www.independentplacerville.com/contact/"
+    },
+    "bricks": {
+      "id": "bricks",
+      "name": "Bricks Eats & Drinks",
+      "place": "Placerville · 482 Main St",
+      "dish": "Chicken Cavatappi / 美式主菜",
+      "tag": "镇中心备选",
+      "hint": "官网周日 11:30–20:00。",
+      "pitfall": "配图为官网 Chicken Cavatappi；不是小红书实吃推荐。530‑303‑3480，热门时段先问等位。驾驶者选无酒精饮料。",
+      "image": "images/bricks.jpg",
+      "photoSource": "https://www.bricksonmainstreet.com/",
+      "credit": "Bricks 官网 · Chicken Cavatappi",
+      "postId": null,
+      "pointId": null,
+      "official": "https://www.bricksonmainstreet.com/"
+    },
+    "in-n-out-placerville": {
+      "id": "in-n-out-placerville",
+      "name": "In‑N‑Out",
+      "place": "Placerville · 3055 Forni Rd",
+      "dish": "Double‑Double 套餐",
+      "tag": "快速晚餐备选",
+      "hint": "周日 10:30–次日 01:00，US‑50 旁。",
+      "pitfall": "品牌官网菜单和店址候选，照片为通用套餐宣传图，不是这家分店实吃照。排队较长时改另外两家；吃完再开往湾区。",
+      "image": "images/in-n-out-placerville.png",
+      "photoSource": "https://locations.in-n-out.com/139",
+      "credit": "In‑N‑Out 官网 · 通用套餐图",
+      "postId": null,
+      "pointId": null,
+      "official": "https://locations.in-n-out.com/139"
     },
     "sonora-inn": {
       "id": "sonora-inn",
@@ -432,7 +522,7 @@
     {
       "id": "calm",
       "name": "看湖自驾",
-      "label": "10:00 出门 · June Lake + Mammoth",
+      "label": "早餐后 10:00 出发 · 正常三餐",
       "image": "images/silver.jpg",
       "tag": "这次就走这一条",
       "drive": "全程驾驶粗估 14–17 小时",
@@ -460,58 +550,58 @@
         [
           {
             "type": "meal",
-            "time": "10:00–10:30",
+            "time": "09:00–10:00",
             "title": "Sonora 早餐",
             "options": [
               "day-o",
               "revive",
               "hotel-breakfast"
             ],
-            "note": "10:00 才出门，吃完退房、加油，约 10:40 开始翻山。酒店早餐时段先问前台。",
+            "note": "三选一 · 10:00 前吃完、退房并准备好行李，10:00 开始当天行程。酒店早餐结束时间先问前台。",
             "key": "sat-breakfast"
           },
           {
             "type": "drive",
-            "time": "10:40",
-            "title": "Sonora → CA‑108 → US‑395",
-            "text": "先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。"
+            "time": "10:00",
+            "title": "早餐后出发 · Sonora → CA‑108 → US‑395",
+            "text": "早餐已吃完。先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。"
           },
           {
             "type": "stop",
-            "time": "约 12:15",
+            "time": "约 11:45",
             "id": "pass",
             "note": "山口预报强风，以通过为主，不专门下车拍照。",
-            "drive": "继续开约 1–1.25 小时"
+            "drive": "继续开约 1 小时"
           },
           {
             "type": "stop",
-            "time": "13:30–13:40",
+            "time": "12:50–13:00",
             "id": "conway",
-            "note": "顺路观景拍照，不进入步道。",
-            "drive": "约 20–30 分钟"
-          },
-          {
-            "type": "stop",
-            "time": "14:00–14:20",
-            "id": "silver",
-            "note": "158 北入口 → Silver Lake；停车后湖岸散步 10–20 分钟。",
-            "drive": "约 30–45 分钟到 Mammoth"
+            "note": "顺路观景拍照，不进入步道；开车延误就跳过，先去吃午餐。",
+            "drive": "约 15 分钟到 Lee Vining"
           },
           {
             "type": "meal",
-            "time": "15:00–15:45",
-            "title": "Mammoth 晚午餐",
+            "time": "13:15–14:15",
+            "title": "Lee Vining 午餐",
             "options": [
-              "toomeys",
-              "noodle",
-              "stellar"
+              "nicelys",
+              "basin",
+              "whoa"
             ],
-            "note": "三选一 · Noodle‑Ly 15:00 恢复营业；Stellar 16:00 关门，只作轻食备选，晚到选前两家。翻山途中可吃自备点心。",
+            "note": "三选一 · 留一小时正常吃饭。Whoa Nellie 需先确认季节营业；未确认选 Nicely’s 或 Basin。",
             "key": "sat-lunch-calm"
           },
           {
             "type": "stop",
-            "time": "16:15–16:35",
+            "time": "14:45–15:10",
+            "id": "silver",
+            "note": "158 北入口 → Silver Lake；停车后湖岸散步 10–20 分钟。",
+            "drive": "约 45–50 分钟到 Hot Creek"
+          },
+          {
+            "type": "stop",
+            "time": "16:00–16:20",
             "id": "hot",
             "note": "只在观景区拍照；遇风雨、碎石坑或延误就跳过，直接回镇休息。",
             "drive": "约 20–30 分钟回镇"
@@ -524,90 +614,108 @@
               "alpenhof",
               "limelight"
             ],
-            "note": "两家可比较，先放行李再吃晚餐。",
+            "note": "两家可比较，先放行李、休息，再吃晚餐。",
             "key": "sat-hotel"
           },
           {
             "type": "meal",
-            "time": "18:30",
+            "time": "18:30–19:30",
             "title": "Mammoth 晚餐",
             "options": [
               "dosalas",
               "toomeys",
               "noodle"
             ],
-            "note": "三选一 · Dos Alas 先订位，满位看另外两家。",
+            "note": "三选一 · 正常晚餐时间，Dos Alas 先问订位，满位看另外两家。",
             "key": "sat-dinner"
           }
         ],
         [
           {
             "type": "meal",
-            "time": "10:00–10:40",
+            "time": "09:00–10:00",
             "title": "Mammoth 早餐",
             "options": [
               "crepe",
               "mammoth-coffee",
               "stellar"
             ],
-            "note": "10:00 才出门 · 先退房放好行李，再吃早餐。三选一，不再额外逛镇。",
+            "note": "三选一 · 10:00 前吃完早餐、退房并装好行李，10:00 开始观景和返程。",
             "key": "sun-breakfast"
           },
           {
-            "type": "stop",
-            "time": "11:00–11:20",
-            "id": "convict",
-            "note": "停车区附近湖岸散步 10–20 分钟，不走完整环湖；风雨或落后计划就省略。",
-            "drive": "约 15–20 分钟回 Mammoth，午餐可外带"
+            "type": "drive",
+            "time": "10:00",
+            "title": "早餐后出发 · Mammoth → Convict Lake",
+            "text": "约 20 分钟到湖边停车区；出发前确认雨雪、395 和 US‑50 路况。"
           },
           {
-            "type": "meal",
-            "time": "12:00–12:45",
-            "title": "Mammoth 午餐",
-            "options": [
-              "crepe",
-              "toomeys",
-              "noodle"
-            ],
-            "note": "三选一 · 早餐若吃得晚，这顿可打包作路餐；12:45 前结束，13:00 开始返程。",
-            "key": "sun-lunch"
+            "type": "stop",
+            "time": "10:20–10:40",
+            "id": "convict",
+            "note": "湖岸散步 10–20 分钟，不走完整环湖；风雨或延误就省略。",
+            "drive": "约 20 分钟回到 395 北向路段"
           },
           {
             "type": "drive",
-            "time": "13:00",
-            "title": "Mammoth → US‑395 → Carson City",
-            "text": "约 3 小时，包含短休息。返程后不再加景点；13:00 是目标出发时间，天气变差就删掉湖景提前走。"
+            "time": "11:00",
+            "title": "Convict Lake → US‑395 → Carson City",
+            "text": "从湖区向北返程，约 2.5 小时含短休息。不再增加景点，把午餐放在前方的 Carson City。"
           },
           {
             "type": "meal",
-            "time": "16:00–16:45",
-            "title": "Carson City 早晚餐",
+            "time": "13:30–14:30",
+            "title": "Carson City 午餐",
             "options": [
               "great-basin",
               "fox",
               "in-n-out-carson"
             ],
-            "note": "三选一 · 加油、上洗手间；最晚约 16:45 继续开。赶时间优先快餐外带。",
+            "note": "三选一 · 正常午餐，留一小时吃饭、加油和上洗手间；约 14:30 继续向西。",
+            "key": "sun-lunch"
+          },
+          {
+            "type": "drive",
+            "time": "14:30",
+            "title": "Carson City → US‑50 → Placerville",
+            "text": "预留约 2.5–3 小时含山路与短休息，争取白天翻过山段。US‑50 仍须确认链条要求与通行状态。"
+          },
+          {
+            "type": "drive",
+            "time": "约 17:00–18:00",
+            "title": "Placerville · 到达后休息",
+            "text": "先停好车、休息；18:00 正常吃晚餐。若路上延误，这一小时优先用作缓冲，不额外加景点。"
+          },
+          {
+            "type": "meal",
+            "time": "18:00–19:00",
+            "title": "Placerville 晚餐",
+            "options": [
+              "independent",
+              "bricks",
+              "in-n-out-placerville"
+            ],
+            "note": "三选一 · 坐下正常吃晚餐。The Independent 先问订位；吃完约 19:00 再开回湾区。",
             "key": "sun-dinner"
           },
           {
             "type": "drive",
-            "time": "16:45",
-            "title": "Carson City → US‑50 → San Jose",
-            "text": "预留 5–6 小时含休息与拥堵余量；US‑50 也须确认链条要求和通行状态。"
+            "time": "19:00",
+            "title": "Placerville → San Jose",
+            "text": "预留 3–4 小时含休息、周日晚车流和到家缓冲；沿途不再安排景点。"
           },
           {
             "type": "drive",
             "time": "约 22:00–23:00",
             "title": "回到 San Jose",
-            "text": "目标周日午夜前到家，已预留缓冲；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。"
+            "text": "目标周日午夜前到家；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。"
           }
         ]
       ],
       "summary": [
         "San Jose 出发 → Sonora 住宿",
-        "10:00 早餐 → 翻山 → Silver Lake → 地热 → Mammoth",
-        "10:00 早餐 → Convict 短停 → 13:00 返程 → 当晚到家"
+        "09–10 早餐 → 10 点出发 → Lee Vining 午餐 → 湖景 → Mammoth 晚餐",
+        "09–10 早餐 → 10 点出发 → Convict → Carson 午餐 → Placerville 晚餐 → 到家"
       ]
     }
   ],

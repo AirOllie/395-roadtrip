@@ -156,9 +156,9 @@
   {
     "id": "in-n-out-carson",
     "name": "In‑N‑Out",
-    "image": "images/in-n-out-carson.jpg",
+    "image": "images/in-n-out-carson.png",
     "source": "https://locations.in-n-out.com/187-Carson-City",
-    "credit": "In‑N‑Out 官网 · Carson City 分店实景"
+    "credit": "In‑N‑Out 官网 · 通用套餐图"
   },
   {
     "id": "red-hut",
@@ -166,6 +166,48 @@
     "image": "images/red-hut.webp",
     "source": "https://visitcarsoncity.com/food-and-drink/red-hut-cafe/",
     "credit": "Visit Carson City · 餐厅店面"
+  },
+  {
+    "id": "nicelys",
+    "name": "Nicely’s Restaurant",
+    "image": "images/nicelys.jpg",
+    "source": "https://www.leevining.com/nicelys",
+    "credit": "Lee Vining 商会 · 餐厅店面"
+  },
+  {
+    "id": "basin",
+    "name": "The Basin Cafe",
+    "image": "images/basin.jpg",
+    "source": "https://www.leevining.com/basin-cafe",
+    "credit": "Lee Vining 商会 · The Basin Cafe 店面"
+  },
+  {
+    "id": "whoa",
+    "name": "Whoa Nellie Deli",
+    "image": "images/whoa.jpg",
+    "source": "https://www.whoanelliedeli.com/info",
+    "credit": "Whoa Nellie Deli 官网 · 店外招牌"
+  },
+  {
+    "id": "independent",
+    "name": "The Independent",
+    "image": "images/independent.jpg",
+    "source": "https://www.independentplacerville.com/home",
+    "credit": "The Independent 官网 · 主菜照片"
+  },
+  {
+    "id": "bricks",
+    "name": "Bricks Eats & Drinks",
+    "image": "images/bricks.jpg",
+    "source": "https://www.bricksonmainstreet.com/",
+    "credit": "Bricks 官网 · Chicken Cavatappi"
+  },
+  {
+    "id": "in-n-out-placerville",
+    "name": "In‑N‑Out",
+    "image": "images/in-n-out-placerville.png",
+    "source": "https://locations.in-n-out.com/139",
+    "credit": "In‑N‑Out 官网 · 通用套餐图"
   },
   {
     "id": "sonora-inn",

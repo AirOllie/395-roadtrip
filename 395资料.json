@@ -2144,8 +2144,8 @@
   ],
   "itineraries": {
     "calm": {
-      "name": "10 点出门 · 看湖自驾",
-      "desc": "周六、周日最早 10:00 出门，集中 June Lake／Mammoth；无硬核徒步、无湾区餐厅推荐，周日 13:00 返程，目标 22:00–23:00 回 San Jose。",
+      "name": "早餐后 10 点出发 · 看湖自驾",
+      "desc": "周六、周日 09:00–10:00 吃完早餐，10:00 开始当天行程，午餐约 13 点、晚餐 18–19 点；集中 June Lake／Mammoth，无硬核徒步、无湾区餐厅推荐，周日目标 22:00–23:00 回 San Jose。",
       "drive": "全程驾驶粗估 14–17 小时",
       "days": [
         {
@@ -2171,47 +2171,47 @@
         {
           "day": "SAT",
           "date": "10.10",
-          "title": "10:00 早餐 → 翻山 → Silver Lake → 地热 → Mammoth",
+          "title": "09–10 早餐 → 10 点出发 → Lee Vining 午餐 → 湖景 → Mammoth 晚餐",
           "stay": "Mammoth Lakes",
           "stops": [
             [
-              "10:00–10:30",
+              "09:00–10:00",
               "Sonora 早餐",
-              "10:00 才出门，吃完退房、加油，约 10:40 开始翻山。酒店早餐时段先问前台。 选项：Day‑O Espresso／Revive Coffee／Sonora Inn 早餐",
+              "三选一 · 10:00 前吃完、退房并准备好行李，10:00 开始当天行程。酒店早餐结束时间先问前台。 选项：Day‑O Espresso／Revive Coffee／Sonora Inn 早餐",
               ""
             ],
             [
-              "10:40",
-              "Sonora → CA‑108 → US‑395",
-              "先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。",
+              "10:00",
+              "早餐后出发 · Sonora → CA‑108 → US‑395",
+              "早餐已吃完。先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。",
               ""
             ],
             [
-              "约 12:15",
+              "约 11:45",
               "Sonora Pass",
               "山口预报强风，以通过为主，不专门下车拍照。",
               ""
             ],
             [
-              "13:30–13:40",
+              "12:50–13:00",
               "Conway Summit",
-              "顺路观景拍照，不进入步道。",
+              "顺路观景拍照，不进入步道；开车延误就跳过，先去吃午餐。",
               "conway"
             ],
             [
-              "14:00–14:20",
+              "13:15–14:15",
+              "Lee Vining 午餐",
+              "三选一 · 留一小时正常吃饭。Whoa Nellie 需先确认季节营业；未确认选 Nicely’s 或 Basin。 选项：Nicely’s Restaurant／The Basin Cafe／Whoa Nellie Deli",
+              ""
+            ],
+            [
+              "14:45–15:10",
               "Silver Lake",
               "158 北入口 → Silver Lake；停车后湖岸散步 10–20 分钟。",
               "silver"
             ],
             [
-              "15:00–15:45",
-              "Mammoth 晚午餐",
-              "三选一 · Noodle‑Ly 15:00 恢复营业；Stellar 16:00 关门，只作轻食备选，晚到选前两家。翻山途中可吃自备点心。 选项：Toomey’s／Noodle‑Ly／Stellar Brew",
-              ""
-            ],
-            [
-              "16:15–16:35",
+              "16:00–16:20",
               "Hot Creek / Brees Lookout",
               "只在观景区拍照；遇风雨、碎石坑或延误就跳过，直接回镇休息。",
               "hot"
@@ -2219,13 +2219,13 @@
             [
               "17:00",
               "今晚住 Mammoth",
-              "两家可比较，先放行李再吃晚餐。 选项：Alpenhof Lodge／Limelight Mammoth",
+              "两家可比较，先放行李、休息，再吃晚餐。 选项：Alpenhof Lodge／Limelight Mammoth",
               ""
             ],
             [
-              "18:30",
+              "18:30–19:30",
               "Mammoth 晚餐",
-              "三选一 · Dos Alas 先订位，满位看另外两家。 选项：Dos Alas／Toomey’s／Noodle‑Ly",
+              "三选一 · 正常晚餐时间，Dos Alas 先问订位，满位看另外两家。 选项：Dos Alas／Toomey’s／Noodle‑Ly",
               ""
             ]
           ]
@@ -2233,49 +2233,67 @@
         {
           "day": "SUN",
           "date": "10.11",
-          "title": "10:00 早餐 → Convict 短停 → 13:00 返程 → 当晚到家",
+          "title": "09–10 早餐 → 10 点出发 → Convict → Carson 午餐 → Placerville 晚餐 → 到家",
           "stay": "回 San Jose",
           "stops": [
             [
-              "10:00–10:40",
+              "09:00–10:00",
               "Mammoth 早餐",
-              "10:00 才出门 · 先退房放好行李，再吃早餐。三选一，不再额外逛镇。 选项：Café Crêpe／Mammoth Coffee／Stellar Brew",
+              "三选一 · 10:00 前吃完早餐、退房并装好行李，10:00 开始观景和返程。 选项：Café Crêpe／Mammoth Coffee／Stellar Brew",
               ""
             ],
             [
-              "11:00–11:20",
+              "10:00",
+              "早餐后出发 · Mammoth → Convict Lake",
+              "约 20 分钟到湖边停车区；出发前确认雨雪、395 和 US‑50 路况。",
+              ""
+            ],
+            [
+              "10:20–10:40",
               "Convict Lake",
-              "停车区附近湖岸散步 10–20 分钟，不走完整环湖；风雨或落后计划就省略。",
+              "湖岸散步 10–20 分钟，不走完整环湖；风雨或延误就省略。",
               "convict"
             ],
             [
-              "12:00–12:45",
-              "Mammoth 午餐",
-              "三选一 · 早餐若吃得晚，这顿可打包作路餐；12:45 前结束，13:00 开始返程。 选项：Café Crêpe／Toomey’s／Noodle‑Ly",
+              "11:00",
+              "Convict Lake → US‑395 → Carson City",
+              "从湖区向北返程，约 2.5 小时含短休息。不再增加景点，把午餐放在前方的 Carson City。",
               ""
             ],
             [
-              "13:00",
-              "Mammoth → US‑395 → Carson City",
-              "约 3 小时，包含短休息。返程后不再加景点；13:00 是目标出发时间，天气变差就删掉湖景提前走。",
+              "13:30–14:30",
+              "Carson City 午餐",
+              "三选一 · 正常午餐，留一小时吃饭、加油和上洗手间；约 14:30 继续向西。 选项：Great Basin／The Fox／In‑N‑Out",
               ""
             ],
             [
-              "16:00–16:45",
-              "Carson City 早晚餐",
-              "三选一 · 加油、上洗手间；最晚约 16:45 继续开。赶时间优先快餐外带。 选项：Great Basin／The Fox／In‑N‑Out",
+              "14:30",
+              "Carson City → US‑50 → Placerville",
+              "预留约 2.5–3 小时含山路与短休息，争取白天翻过山段。US‑50 仍须确认链条要求与通行状态。",
               ""
             ],
             [
-              "16:45",
-              "Carson City → US‑50 → San Jose",
-              "预留 5–6 小时含休息与拥堵余量；US‑50 也须确认链条要求和通行状态。",
+              "约 17:00–18:00",
+              "Placerville · 到达后休息",
+              "先停好车、休息；18:00 正常吃晚餐。若路上延误，这一小时优先用作缓冲，不额外加景点。",
+              ""
+            ],
+            [
+              "18:00–19:00",
+              "Placerville 晚餐",
+              "三选一 · 坐下正常吃晚餐。The Independent 先问订位；吃完约 19:00 再开回湾区。 选项：The Independent／Bricks Eats & Drinks／In‑N‑Out",
+              ""
+            ],
+            [
+              "19:00",
+              "Placerville → San Jose",
+              "预留 3–4 小时含休息、周日晚车流和到家缓冲；沿途不再安排景点。",
               ""
             ],
             [
               "约 22:00–23:00",
               "回到 San Jose",
-              "目标周日午夜前到家，已预留缓冲；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。",
+              "目标周日午夜前到家；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。",
               ""
             ]
           ]
