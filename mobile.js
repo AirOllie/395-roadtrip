@@ -34,4 +34,4 @@ render();
 
 const fallFrame=$('#live-fall-map'),fallFeedback=$('#fall-map-feedback');
 $('#refresh-fall-map').addEventListener('click',()=>{const u=new URL(fallFrame.src);u.searchParams.set('refresh',String(Date.now()));fallFeedback.textContent='正在重新加载来源地图…';fallFrame.src=u.toString()});
-fallFrame.addEventListener('load',()=>{fallFeedback.textContent='来源地图已加载；点叶子查看报告。原站通常每周五更新，不是逐分钟观测。'});
+fallFrame.addEventListener('load',()=>{fallFeedback.textContent='来源地图已加载；点叶子查看地点。原站通常每周五更新，不是逐分钟观测。'});
