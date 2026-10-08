@@ -56,27 +56,6 @@
     "credit": "Mono County Tourism · Amanda Carlson · 2026/10/5"
   },
   {
-    "id": "la-victoria",
-    "name": "La Victoria",
-    "image": "images/la-victoria.jpg",
-    "source": "https://www.lavicsj.com/",
-    "credit": "官网实景 / 餐点图"
-  },
-  {
-    "id": "pho-hanoi",
-    "name": "Phở Hà Nội",
-    "image": "images/pho-hanoi.jpg",
-    "source": "https://phohanoi.com/san-jose-en.html",
-    "credit": "官网实景 / 餐点图"
-  },
-  {
-    "id": "in-n-out",
-    "name": "In‑N‑Out",
-    "image": "images/in-n-out.png",
-    "source": "https://locations.in-n-out.com/240",
-    "credit": "官网实景 / 餐点图"
-  },
-  {
     "id": "day-o",
     "name": "Day‑O Espresso",
     "image": "images/day-o.jpg",
@@ -173,6 +152,13 @@
     "image": "images/fox.webp",
     "source": "https://foxpubs.com/",
     "credit": "官网实景 / 餐点图"
+  },
+  {
+    "id": "in-n-out-carson",
+    "name": "In‑N‑Out",
+    "image": "images/in-n-out-carson.jpg",
+    "source": "https://locations.in-n-out.com/187-Carson-City",
+    "credit": "In‑N‑Out 官网 · Carson City 分店实景"
   },
   {
     "id": "red-hut",

@@ -1360,10 +1360,10 @@
       "kind": "景点",
       "lat": 37.193,
       "lon": -118.57,
-      "verdict": "优先",
+      "verdict": "备选",
       "car": "稳妥",
       "reason": "近期金黄集中在湖前的公路、草甸、小屋与溪流，轿车以铺装路为主。",
-      "pitfall": "湖本身评价有分歧；只在合法停车区停，天气变冷后不把旧 peak 当保证。",
+      "pitfall": "本次每天 10 点出门，Bishop 已移出主行程；以下供另一次旅行参考。湖本身评价有分歧；只在合法停车区停，天气变冷后不把旧 peak 当保证。",
       "sources": [
         "6ac5d2a5000000001c00ed2c",
         "6ac50f290000000019038800",
@@ -1394,10 +1394,10 @@
       "kind": "景点",
       "lat": 37.212,
       "lon": -118.613,
-      "verdict": "优先",
+      "verdict": "备选",
       "car": "稳妥",
       "reason": "路边秋林、蓝色湖水与山景；与 South Lake Road 组合。",
-      "pitfall": "不进入高山湖徒步路线。热门时段停车难；避免黄昏才到，雨雪来临不深入高处。",
+      "pitfall": "本次每天 10 点出门，Bishop 已移出主行程；以下供另一次旅行参考。不进入高山湖徒步路线。热门时段停车难；避免黄昏才到，雨雪来临不深入高处。",
       "sources": [
         "6ac34583000000001801b992",
         "6ac17d8f000000001203d9c5",
@@ -1737,10 +1737,10 @@
       "kind": "餐厅",
       "lat": 37.368,
       "lon": -118.396,
-      "verdict": "优先",
+      "verdict": "备选",
       "car": "稳妥",
       "reason": "多帖推荐热 pastrami／烟熏牛肉三明治和面包，适合买路餐。",
-      "pitfall": "分量大可考虑半份；热门时段排队。只在 Bishop 方案顺路。",
+      "pitfall": "本次每天 10 点出门，Bishop 已移出主行程；以下供另一次旅行参考。分量大可考虑半份；热门时段排队。只在 Bishop 方案顺路。",
       "sources": [
         "6ac57be4000000001301ac1c",
         "6a67a9590000000001003359",
@@ -2116,203 +2116,166 @@
       "url": "https://www.bestwestern.com/en_US/book/hotel-details.05408.html",
       "checked": "2026-10-07",
       "text": "周五西侧过夜候选，19551 Hess Avenue，靠 108；官网列早餐与停车。酒店电话 (209) 533‑4400；未查日期对应的价格和余房。"
+    },
+    {
+      "name": "In‑N‑Out Carson City 营业时间",
+      "url": "https://locations.in-n-out.com/187-Carson-City",
+      "checked": "2026-10-07",
+      "text": "957 Topsy Ln，周日 10:30–次日 01:00；返程晚餐快餐备选。"
+    },
+    {
+      "name": "NWS June Lake 周末天气",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=37.78&lon=-119.076",
+      "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
+      "text": "周六最高约16°C，夜间3°C，阵风最高40mph；周日最高约12°C，可能阵雨，夜间约1°C。"
+    },
+    {
+      "name": "NWS Convict Lake 周末天气",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=37.589&lon=-118.854",
+      "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
+      "text": "周六最高约15°C，夜间3°C，阵风最高45mph；周日最高约11°C，可能阵雨，夜间约1°C。"
+    },
+    {
+      "name": "NWS Sonora Pass 周末天气",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.328&lon=-119.636",
+      "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
+      "text": "周六最高约9°C，强风，持续风约36–44mph；周日最高约6°C，可能阵雪。高山口以通过为主。"
     }
   ],
   "itineraries": {
-    "gold": {
-      "name": "追金黄",
-      "desc": "South Lake 沿路＋Sabrina。周六开车较多，换来较新的 Bishop 秋色实拍。",
-      "drive": "全程驾驶粗估 16–19 小时",
-      "days": [
-        {
-          "day": "FRI",
-          "date": "10.09",
-          "title": "下班出发，先在山的西侧睡",
-          "stay": "住 Sonora／Oakdale",
-          "stops": [
-            [
-              "18:00",
-              "San Jose 出发",
-              "避开深夜翻高山口；出发时间按你的下班时间前后调整。",
-              ""
-            ],
-            [
-              "21:30–22:30",
-              "到 Sonora，入住",
-              "晚高峰与休息后约 3–4 小时。预先确认晚到入住，备第二天路餐。",
-              "sonora"
-            ]
-          ]
-        },
-        {
-          "day": "SAT",
-          "date": "10.10",
-          "title": "白天翻 Sonora Pass，追 Bishop 金黄",
-          "stay": "住 Mammoth Lakes 镇上",
-          "stops": [
-            [
-              "07:00",
-              "Sonora 出发 → CA‑108",
-              "确认无封路／链条要求后再走；山口只在合法观景区短停。",
-              ""
-            ],
-            [
-              "10:00",
-              "Conway Summit 短停",
-              "约 15 分钟；落后计划就跳过，优先保留南段日光。",
-              "conway"
-            ],
-            [
-              "12:00",
-              "Bishop 午餐／补给",
-              "Schat’s 买三明治，顺便加油。时间为排程估计，不是导航实时 ETA。",
-              "schat"
-            ],
-            [
-              "13:00–14:30",
-              "South Lake Road／Weir Pond",
-              "找合法停车区，欣赏草甸、白杨、小屋。湖终点可不去。",
-              "south"
-            ],
-            [
-              "15:00–16:00",
-              "Lake Sabrina",
-              "短散步和湖景；不再加 North Lake 的窄路。",
-              "sabrina"
-            ],
-            [
-              "17:30",
-              "Mammoth 入住／晚餐",
-              "Alpenhof 作为第一候选；Dos Alas 先预订，满位可改 Toomey’s。",
-              "alpenhof"
-            ]
-          ]
-        },
-        {
-          "day": "SUN",
-          "date": "10.11",
-          "title": "湖边短停，上午开始返程",
-          "stay": "回 San Jose",
-          "stops": [
-            [
-              "07:00",
-              "Hot Creek／Brees Lookout",
-              "风雨、结冰或低底盘遇坑时跳过；只在观景区看地热。",
-              "hot"
-            ],
-            [
-              "08:00",
-              "Convict Lake",
-              "只走湖边 20–30 分钟；恶劣天气直接返程，不追倒影。",
-              "convict"
-            ],
-            [
-              "09:30 前",
-              "向北返程",
-              "优先评估 US‑395 → Carson City → US‑50 → San Jose；避开更高的 108／120。US‑50 也须确认链条与路况。",
-              ""
-            ],
-            [
-              "18:00–20:00",
-              "预计到家",
-              "绕 US‑50 粗估 7.5–9 小时含休息；实际以导航、天气与堵车为准。",
-              ""
-            ]
-          ]
-        }
-      ]
-    },
     "calm": {
-      "name": "少开车",
-      "desc": "June Lake＋Hot Creek＋湖岸短散步。取消 McGee 徒步，午后留时间休息，周日当晚回湾区。",
+      "name": "10 点出门 · 看湖自驾",
+      "desc": "周六、周日最早 10:00 出门，集中 June Lake／Mammoth；无硬核徒步、无湾区餐厅推荐，周日 13:00 返程，目标 22:00–23:00 回 San Jose。",
       "drive": "全程驾驶粗估 14–17 小时",
       "days": [
         {
           "day": "FRI",
           "date": "10.09",
-          "title": "San Jose → Sonora",
-          "stay": "住 Sonora／Oakdale",
+          "title": "San Jose 出发 → Sonora 住宿",
+          "stay": "Sonora",
           "stops": [
             [
               "18:00",
-              "San Jose 下班出发",
-              "加满油，下载离线地图，预先联系晚到入住。",
+              "San Jose → Sonora",
+              "约 3–4 小时含晚高峰与休息 · 出发前自行吃饭，不推荐湾区餐厅",
               ""
             ],
             [
               "21:30–22:30",
-              "Sonora 入住",
-              "约 3–4 小时含晚高峰和休息，周六白天翻山。",
-              "sonora"
+              "今晚住 Sonora",
+              "两家可比较，提前联系晚到入住。 选项：Sonora Inn／Heritage Inn",
+              ""
             ]
           ]
         },
         {
           "day": "SAT",
           "date": "10.10",
-          "title": "沿 395 自驾看湖，午后休息",
-          "stay": "住 Mammoth Lakes",
+          "title": "10:00 早餐 → 翻山 → Silver Lake → 地热 → Mammoth",
+          "stay": "Mammoth Lakes",
           "stops": [
             [
-              "07:30",
-              "Sonora → CA‑108 → US‑395",
-              "当天无封路／链条要求才翻山，恶劣天气改路或缩短旅行。",
+              "10:00–10:30",
+              "Sonora 早餐",
+              "10:00 才出门，吃完退房、加油，约 10:40 开始翻山。酒店早餐时段先问前台。 选项：Day‑O Espresso／Revive Coffee／Sonora Inn 早餐",
               ""
             ],
             [
-              "10:30",
+              "10:40",
+              "Sonora → CA‑108 → US‑395",
+              "先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。",
+              ""
+            ],
+            [
+              "约 12:15",
+              "Sonora Pass",
+              "山口预报强风，以通过为主，不专门下车拍照。",
+              ""
+            ],
+            [
+              "13:30–13:40",
               "Conway Summit",
-              "短停 15 分钟。",
+              "顺路观景拍照，不进入步道。",
               "conway"
             ],
             [
-              "11:45–12:45",
-              "June Lake Loop／Silver Lake",
-              "湖边短走后用路餐；颜色可能局部，当地活动可能忙。",
+              "14:00–14:20",
+              "Silver Lake",
+              "158 北入口 → Silver Lake；停车后湖岸散步 10–20 分钟。",
               "silver"
             ],
             [
-              "13:30–14:30",
-              "Mammoth 午后休息",
-              "午餐、补给或喝咖啡；不新增徒步景点。",
+              "15:00–15:45",
+              "Mammoth 晚午餐",
+              "三选一 · Noodle‑Ly 15:00 恢复营业；Stellar 16:00 关门，只作轻食备选，晚到选前两家。翻山途中可吃自备点心。 选项：Toomey’s／Noodle‑Ly／Stellar Brew",
               ""
             ],
             [
-              "15:00–15:45",
-              "Hot Creek／Brees Lookout",
-              "碎石段慢开，只看不下水；风雨或坑深时删掉。",
+              "16:15–16:35",
+              "Hot Creek / Brees Lookout",
+              "只在观景区拍照；遇风雨、碎石坑或延误就跳过，直接回镇休息。",
               "hot"
             ],
             [
-              "17:30",
-              "Mammoth 入住／晚餐",
-              "Alpenhof 或 Limelight；Dos Alas／Toomey’s。",
-              "alpenhof"
+              "17:00",
+              "今晚住 Mammoth",
+              "两家可比较，先放行李再吃晚餐。 选项：Alpenhof Lodge／Limelight Mammoth",
+              ""
+            ],
+            [
+              "18:30",
+              "Mammoth 晚餐",
+              "三选一 · Dos Alas 先订位，满位看另外两家。 选项：Dos Alas／Toomey’s／Noodle‑Ly",
+              ""
             ]
           ]
         },
         {
           "day": "SUN",
           "date": "10.11",
-          "title": "Convict 短停后早点返程",
+          "title": "10:00 早餐 → Convict 短停 → 13:00 返程 → 当晚到家",
           "stay": "回 San Jose",
           "stops": [
             [
-              "07:30–08:15",
-              "Convict Lake",
-              "天气好才湖边短走，风雨大就删掉。",
-              "convict"
-            ],
-            [
-              "09:00–09:30",
-              "带路餐离开 Mammoth",
-              "US‑395 → Carson City → US‑50 是天气备选；当天先查全程通行及链条。",
+              "10:00–10:40",
+              "Mammoth 早餐",
+              "10:00 才出门 · 先退房放好行李，再吃早餐。三选一，不再额外逛镇。 选项：Café Crêpe／Mammoth Coffee／Stellar Brew",
               ""
             ],
             [
-              "18:00–20:00",
+              "11:00–11:20",
+              "Convict Lake",
+              "停车区附近湖岸散步 10–20 分钟，不走完整环湖；风雨或落后计划就省略。",
+              "convict"
+            ],
+            [
+              "12:00–12:45",
+              "Mammoth 午餐",
+              "三选一 · 早餐若吃得晚，这顿可打包作路餐；12:45 前结束，13:00 开始返程。 选项：Café Crêpe／Toomey’s／Noodle‑Ly",
+              ""
+            ],
+            [
+              "13:00",
+              "Mammoth → US‑395 → Carson City",
+              "约 3 小时，包含短休息。返程后不再加景点；13:00 是目标出发时间，天气变差就删掉湖景提前走。",
+              ""
+            ],
+            [
+              "16:00–16:45",
+              "Carson City 早晚餐",
+              "三选一 · 加油、上洗手间；最晚约 16:45 继续开。赶时间优先快餐外带。 选项：Great Basin／The Fox／In‑N‑Out",
+              ""
+            ],
+            [
+              "16:45",
+              "Carson City → US‑50 → San Jose",
+              "预留 5–6 小时含休息与拥堵余量；US‑50 也须确认链条要求和通行状态。",
+              ""
+            ],
+            [
+              "约 22:00–23:00",
               "回到 San Jose",
-              "驾驶与休息粗估 7.5–9 小时，留堵车余量。",
+              "目标周日午夜前到家，已预留缓冲；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。",
               ""
             ]
           ]

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "entries": {
     "south": {
       "id": "south",
@@ -112,7 +112,7 @@
       "place": "CA‑108 · 山口",
       "dish": "白天翻山的秋景",
       "tag": "通行才走",
-      "hint": "07:30 从 Sonora 出发，约 09:15 经过山口。",
+      "hint": "10:00 出门吃早餐，约 12:15 经过山口；预报强风，以通过为主。",
       "pitfall": "时间是粗估。必须先检查 CA‑108 封路与链条要求，不满足通行条件就改路或缩短旅行。",
       "image": "images/sonora-pass.jpg",
       "photoSource": "https://www.monocounty.org/things-to-do/fall-colors/",
@@ -120,51 +120,6 @@
       "postId": null,
       "pointId": null,
       "official": "https://quickmap.dot.ca.gov/"
-    },
-    "la-victoria": {
-      "id": "la-victoria",
-      "name": "La Victoria",
-      "place": "San Jose · 140 E San Carlos St",
-      "dish": "Burrito + Orange Sauce",
-      "tag": "方便外带",
-      "hint": "卷饼外带，适合出发前或晚到后。",
-      "pitfall": "本页按位置与营业时间补充，不是小红书实吃推荐。每日 07:00–次日 03:00；路况延误优先这家。",
-      "image": "images/la-victoria.jpg",
-      "photoSource": "https://www.lavicsj.com/",
-      "credit": "官网实景 / 餐点图",
-      "postId": null,
-      "pointId": null,
-      "official": "https://www.lavicsj.com/locations"
-    },
-    "pho-hanoi": {
-      "id": "pho-hanoi",
-      "name": "Phở Hà Nội",
-      "place": "San Jose · 969 Story Rd",
-      "dish": "牛肉河粉 / 鸡肉河粉",
-      "tag": "想吃热汤",
-      "hint": "出发前坐下来吃一碗热汤。",
-      "pitfall": "官网菜单候选，未当作小红书推荐。返程到得晚先电话确认末单；不确定就选晚营业的两家。",
-      "image": "images/pho-hanoi.jpg",
-      "photoSource": "https://phohanoi.com/san-jose-en.html",
-      "credit": "官网实景 / 餐点图",
-      "postId": null,
-      "pointId": null,
-      "official": "https://phohanoi.com/san-jose-en.html"
-    },
-    "in-n-out": {
-      "id": "in-n-out",
-      "name": "In‑N‑Out",
-      "place": "San Jose · 550 Newhall Dr",
-      "dish": "Double‑Double 套餐",
-      "tag": "晚到兜底",
-      "hint": "Drive‑thru 或堂食。",
-      "pitfall": "本页补充的连锁备选。周五至 01:30、周日至 01:00；排队也要留时间。",
-      "image": "images/in-n-out.png",
-      "photoSource": "https://locations.in-n-out.com/240",
-      "credit": "官网实景 / 餐点图",
-      "postId": null,
-      "pointId": null,
-      "official": "https://locations.in-n-out.com/240"
     },
     "day-o": {
       "id": "day-o",
@@ -202,8 +157,8 @@
       "place": "Sonora · 160 S Washington St",
       "dish": "住客 Continental Breakfast",
       "tag": "少折腾",
-      "hint": "如果住这里，可在酒店吃完再走。",
-      "pitfall": "只供入住客人；官网未列早餐开始时间，前一晚问前台。赶 07:30 出发时可改 Day‑O。配图为早餐区。",
+      "hint": "住客备选；先问前台能否在 10:00 用餐或提前打包。",
+      "pitfall": "只供入住客人，官网未列早餐结束时间；不符合 10:00 用餐安排就选另外两家。配图为早餐区。",
       "image": "images/sonora-breakfast.webp",
       "photoSource": "https://www.thesonorainn.com/about/",
       "credit": "官网实景 / 餐点图",
@@ -376,6 +331,21 @@
       "pointId": null,
       "official": "https://foxpubs.com/"
     },
+    "in-n-out-carson": {
+      "id": "in-n-out-carson",
+      "name": "In‑N‑Out",
+      "place": "Carson City · 957 Topsy Ln",
+      "dish": "Double‑Double 套餐",
+      "tag": "赶路快餐备选",
+      "hint": "周日 10:30–次日 01:00，US‑395 旁。",
+      "pitfall": "品牌官网补充候选，不是小红书实吃推荐。配图为该 Carson City 分店；排队较长时外带并控制休息时间。",
+      "image": "images/in-n-out-carson.jpg",
+      "photoSource": "https://locations.in-n-out.com/187-Carson-City",
+      "credit": "In‑N‑Out 官网 · Carson City 分店实景",
+      "postId": null,
+      "pointId": null,
+      "official": "https://locations.in-n-out.com/187-Carson-City"
+    },
     "red-hut": {
       "id": "red-hut",
       "name": "Red Hut Café",
@@ -460,31 +430,19 @@
   },
   "routes": [
     {
-      "id": "gold",
-      "name": "追金黄",
-      "label": "Bishop · 沿路白杨 + 湖景",
-      "image": "photos/6abfbda00000000018006927-photo.jpg",
-      "tag": "秋色优先",
-      "drive": "全程驾驶粗估 16–19 小时",
+      "id": "calm",
+      "name": "看湖自驾",
+      "label": "10:00 出门 · June Lake + Mammoth",
+      "image": "images/silver.jpg",
+      "tag": "这次就走这一条",
+      "drive": "全程驾驶粗估 14–17 小时",
       "days": [
         [
-          {
-            "type": "meal",
-            "time": "17:15",
-            "title": "出发前 · San Jose 晚餐",
-            "options": [
-              "la-victoria",
-              "pho-hanoi",
-              "in-n-out"
-            ],
-            "note": "三选一，吃完加满油再走。",
-            "key": "fri-dinner"
-          },
           {
             "type": "drive",
             "time": "18:00",
             "title": "San Jose → Sonora",
-            "text": "约 3–4 小时含晚高峰与休息 · 周五晚先在西侧睡",
+            "text": "约 3–4 小时含晚高峰与休息 · 出发前自行吃饭，不推荐湾区餐厅",
             "destination": "sonora-inn"
           },
           {
@@ -502,71 +460,71 @@
         [
           {
             "type": "meal",
-            "time": "07:00",
+            "time": "10:00–10:30",
             "title": "Sonora 早餐",
             "options": [
               "day-o",
               "revive",
               "hotel-breakfast"
             ],
-            "note": "三选一 · 07:30 出发。酒店早餐需先问开餐时间。",
+            "note": "10:00 才出门，吃完退房、加油，约 10:40 开始翻山。酒店早餐时段先问前台。",
             "key": "sat-breakfast"
           },
           {
             "type": "drive",
-            "time": "07:30",
+            "time": "10:40",
             "title": "Sonora → CA‑108 → US‑395",
             "text": "先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。"
           },
           {
             "type": "stop",
-            "time": "约 09:15",
+            "time": "约 12:15",
             "id": "pass",
-            "note": "经过山口，合法停车区可短停。",
-            "drive": "继续开约 1–1.5 小时"
+            "note": "山口预报强风，以通过为主，不专门下车拍照。",
+            "drive": "继续开约 1–1.25 小时"
           },
           {
             "type": "stop",
-            "time": "10:45",
+            "time": "13:30–13:40",
             "id": "conway",
-            "note": "停 10–15 分钟；落后计划可跳过。",
-            "drive": "约 1.5 小时到 Bishop"
+            "note": "顺路观景拍照，不进入步道。",
+            "drive": "约 20–30 分钟"
+          },
+          {
+            "type": "stop",
+            "time": "14:00–14:20",
+            "id": "silver",
+            "note": "158 北入口 → Silver Lake；停车后湖岸散步 10–20 分钟。",
+            "drive": "约 30–45 分钟到 Mammoth"
           },
           {
             "type": "meal",
-            "time": "12:30",
-            "title": "Bishop 午餐",
+            "time": "15:00–15:45",
+            "title": "Mammoth 晚午餐",
             "options": [
-              "schat",
-              "holy-smoke",
-              "mahogany"
+              "toomeys",
+              "noodle",
+              "stellar"
             ],
-            "note": "三选一 · 顺便加油、补水、买路餐。",
-            "key": "sat-lunch-gold"
+            "note": "三选一 · Noodle‑Ly 15:00 恢复营业；Stellar 16:00 关门，只作轻食备选，晚到选前两家。翻山途中可吃自备点心。",
+            "key": "sat-lunch-calm"
           },
           {
             "type": "stop",
-            "time": "14:00–15:00",
-            "id": "south",
-            "note": "今天重点：湖前沿路、白杨与溪流。",
-            "drive": "约 30–45 分钟"
-          },
-          {
-            "type": "stop",
-            "time": "15:45–16:30",
-            "id": "sabrina",
-            "note": "停车区观湖，散步 10–20 分钟；不进高山步道。",
-            "drive": "约 1–1.25 小时到 Mammoth"
+            "time": "16:15–16:35",
+            "id": "hot",
+            "note": "只在观景区拍照；遇风雨、碎石坑或延误就跳过，直接回镇休息。",
+            "drive": "约 20–30 分钟回镇"
           },
           {
             "type": "hotel",
-            "time": "17:30",
+            "time": "17:00",
             "title": "今晚住 Mammoth",
             "options": [
               "alpenhof",
               "limelight"
             ],
-            "note": "先入住、放行李；吃饭后好好休息。",
+            "note": "两家可比较，先放行李再吃晚餐。",
             "key": "sat-hotel"
           },
           {
@@ -585,259 +543,71 @@
         [
           {
             "type": "meal",
-            "time": "07:00",
+            "time": "10:00–10:40",
             "title": "Mammoth 早餐",
             "options": [
               "crepe",
               "mammoth-coffee",
               "stellar"
             ],
-            "note": "三选一 · 吃完退房，把水和路餐放车上。",
+            "note": "10:00 才出门 · 先退房放好行李，再吃早餐。三选一，不再额外逛镇。",
             "key": "sun-breakfast"
           },
           {
             "type": "stop",
-            "time": "07:45–08:10",
-            "id": "hot",
-            "note": "如果天气差、碎石有坑，直接跳过。",
-            "drive": "约 25–30 分钟"
-          },
-          {
-            "type": "stop",
-            "time": "08:40–09:10",
+            "time": "11:00–11:20",
             "id": "convict",
-            "note": "停车区附近散步 10–20 分钟，不走完整环湖；随后返程。",
-            "drive": ""
-          },
-          {
-            "type": "drive",
-            "time": "09:30 前",
-            "title": "向北返程 → Carson City",
-            "text": "US‑395 → US‑50 为备选；当天查雨雪、链条与开放，再用导航确认。"
+            "note": "停车区附近湖岸散步 10–20 分钟，不走完整环湖；风雨或落后计划就省略。",
+            "drive": "约 15–20 分钟回 Mammoth，午餐可外带"
           },
           {
             "type": "meal",
-            "time": "12:30–13:15",
-            "title": "Carson City 午餐",
-            "options": [
-              "great-basin",
-              "fox",
-              "red-hut"
-            ],
-            "note": "三选一 · Red Hut 先电话确认，晚到选另外两家。",
-            "key": "sun-lunch"
-          },
-          {
-            "type": "drive",
-            "time": "13:15",
-            "title": "Carson City → US‑50 → San Jose",
-            "text": "约 5–6 小时含休息；US‑50 也可能有链条要求。"
-          },
-          {
-            "type": "meal",
-            "time": "18:30–20:00",
-            "title": "回到 San Jose · 晚餐",
-            "options": [
-              "la-victoria",
-              "pho-hanoi",
-              "in-n-out"
-            ],
-            "note": "三选一 · 随实际到家时间调整，晚到优先 La Vic’s / In‑N‑Out。",
-            "key": "sun-dinner"
-          }
-        ]
-      ],
-      "summary": [
-        "晚餐 → Sonora",
-        "翻山 → Bishop → 两处秋景 → Mammoth",
-        "地热 → Convict → Carson City → San Jose"
-      ]
-    },
-    {
-      "id": "calm",
-      "name": "看湖慢游",
-      "label": "June Lake · 停车观景 + 湖岸散步",
-      "image": "images/silver.jpg",
-      "tag": "紧凑周末首选",
-      "drive": "全程驾驶粗估 14–17 小时",
-      "days": [
-        [
-          {
-            "type": "meal",
-            "time": "17:15",
-            "title": "出发前 · San Jose 晚餐",
-            "options": [
-              "la-victoria",
-              "pho-hanoi",
-              "in-n-out"
-            ],
-            "note": "三选一，吃完加满油再走。",
-            "key": "fri-dinner"
-          },
-          {
-            "type": "drive",
-            "time": "18:00",
-            "title": "San Jose → Sonora",
-            "text": "约 3–4 小时含晚高峰与休息 · 周五晚先在西侧睡",
-            "destination": "sonora-inn"
-          },
-          {
-            "type": "hotel",
-            "time": "21:30–22:30",
-            "title": "今晚住 Sonora",
-            "options": [
-              "sonora-inn",
-              "heritage"
-            ],
-            "note": "两家可比较，提前联系晚到入住。",
-            "key": "fri-hotel"
-          }
-        ],
-        [
-          {
-            "type": "meal",
-            "time": "07:00",
-            "title": "Sonora 早餐",
-            "options": [
-              "day-o",
-              "revive",
-              "hotel-breakfast"
-            ],
-            "note": "三选一 · 07:30 出发。酒店早餐需先问开餐时间。",
-            "key": "sat-breakfast"
-          },
-          {
-            "type": "drive",
-            "time": "07:30",
-            "title": "Sonora → CA‑108 → US‑395",
-            "text": "先查 CA‑108 开放与链条要求；不满足条件就改路或缩短。"
-          },
-          {
-            "type": "stop",
-            "time": "约 09:15",
-            "id": "pass",
-            "note": "山口短停可省略，慢慢翻山。",
-            "drive": "继续开约 1–1.5 小时"
-          },
-          {
-            "type": "stop",
-            "time": "10:30",
-            "id": "conway",
-            "note": "停 10–15 分钟。",
-            "drive": "约 20–30 分钟"
-          },
-          {
-            "type": "stop",
-            "time": "11:00–11:45",
-            "id": "silver",
-            "note": "158 北入口 → Silver Lake → 镇区南下。",
-            "drive": "约 30–45 分钟到 Mammoth"
-          },
-          {
-            "type": "meal",
-            "time": "12:30",
+            "time": "12:00–12:45",
             "title": "Mammoth 午餐",
             "options": [
               "crepe",
               "toomeys",
               "noodle"
             ],
-            "note": "三选一 · 午餐后在镇内休息，下午只去地热观景；不叠加溪谷徒步。可丽饼和 Noodle‑Ly 午餐别拖太晚。",
-            "key": "sat-lunch-calm"
-          },
-          {
-            "type": "stop",
-            "time": "15:15–15:45",
-            "id": "hot",
-            "note": "只看地热；轿车末段遇坑就跳过。",
-            "drive": "约 20–30 分钟回镇"
-          },
-          {
-            "type": "hotel",
-            "time": "16:30",
-            "title": "今晚住 Mammoth",
-            "options": [
-              "alpenhof",
-              "limelight"
-            ],
-            "note": "先入住、放行李；吃饭后好好休息。",
-            "key": "sat-hotel"
-          },
-          {
-            "type": "meal",
-            "time": "18:30",
-            "title": "Mammoth 晚餐",
-            "options": [
-              "dosalas",
-              "toomeys",
-              "noodle"
-            ],
-            "note": "三选一 · Dos Alas 先订位，满位看另外两家。",
-            "key": "sat-dinner"
-          }
-        ],
-        [
-          {
-            "type": "meal",
-            "time": "07:00",
-            "title": "Mammoth 早餐",
-            "options": [
-              "crepe",
-              "mammoth-coffee",
-              "stellar"
-            ],
-            "note": "三选一 · 吃完退房，把水和路餐放车上。",
-            "key": "sun-breakfast"
-          },
-          {
-            "type": "stop",
-            "time": "08:00–08:30",
-            "id": "convict",
-            "note": "湖岸散步 10–20 分钟，不走完整环湖；09:00–09:30 开始返程。",
-            "drive": ""
-          },
-          {
-            "type": "drive",
-            "time": "09:30 前",
-            "title": "向北返程 → Carson City",
-            "text": "US‑395 → US‑50 为备选；当天查雨雪、链条与开放，再用导航确认。"
-          },
-          {
-            "type": "meal",
-            "time": "12:30–13:15",
-            "title": "Carson City 午餐",
-            "options": [
-              "great-basin",
-              "fox",
-              "red-hut"
-            ],
-            "note": "三选一 · Red Hut 先电话确认，晚到选另外两家。",
+            "note": "三选一 · 早餐若吃得晚，这顿可打包作路餐；12:45 前结束，13:00 开始返程。",
             "key": "sun-lunch"
           },
           {
             "type": "drive",
-            "time": "13:15",
-            "title": "Carson City → US‑50 → San Jose",
-            "text": "约 5–6 小时含休息；US‑50 也可能有链条要求。"
+            "time": "13:00",
+            "title": "Mammoth → US‑395 → Carson City",
+            "text": "约 3 小时，包含短休息。返程后不再加景点；13:00 是目标出发时间，天气变差就删掉湖景提前走。"
           },
           {
             "type": "meal",
-            "time": "18:30–20:00",
-            "title": "回到 San Jose · 晚餐",
+            "time": "16:00–16:45",
+            "title": "Carson City 早晚餐",
             "options": [
-              "la-victoria",
-              "pho-hanoi",
-              "in-n-out"
+              "great-basin",
+              "fox",
+              "in-n-out-carson"
             ],
-            "note": "三选一 · 随实际到家时间调整，晚到优先 La Vic’s / In‑N‑Out。",
+            "note": "三选一 · 加油、上洗手间；最晚约 16:45 继续开。赶时间优先快餐外带。",
             "key": "sun-dinner"
+          },
+          {
+            "type": "drive",
+            "time": "16:45",
+            "title": "Carson City → US‑50 → San Jose",
+            "text": "预留 5–6 小时含休息与拥堵余量；US‑50 也须确认链条要求和通行状态。"
+          },
+          {
+            "type": "drive",
+            "time": "约 22:00–23:00",
+            "title": "回到 San Jose",
+            "text": "目标周日午夜前到家，已预留缓冲；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。"
           }
         ]
       ],
       "summary": [
-        "晚餐 → Sonora",
-        "翻山 → Silver Lake → 午后休息 → 地热",
-        "Convict → Carson City → San Jose"
+        "San Jose 出发 → Sonora 住宿",
+        "10:00 早餐 → 翻山 → Silver Lake → 地热 → Mammoth",
+        "10:00 早餐 → Convict 短停 → 13:00 返程 → 当晚到家"
       ]
     }
   ],
@@ -2201,10 +1971,10 @@
       "kind": "景点",
       "lat": 37.193,
       "lon": -118.57,
-      "verdict": "优先",
+      "verdict": "备选",
       "car": "稳妥",
       "reason": "近期金黄集中在湖前的公路、草甸、小屋与溪流，轿车以铺装路为主。",
-      "pitfall": "湖本身评价有分歧；只在合法停车区停，天气变冷后不把旧 peak 当保证。",
+      "pitfall": "本次每天 10 点出门，Bishop 已移出主行程；以下供另一次旅行参考。湖本身评价有分歧；只在合法停车区停，天气变冷后不把旧 peak 当保证。",
       "sources": [
         "6ac5d2a5000000001c00ed2c",
         "6ac50f290000000019038800",
@@ -2235,10 +2005,10 @@
       "kind": "景点",
       "lat": 37.212,
       "lon": -118.613,
-      "verdict": "优先",
+      "verdict": "备选",
       "car": "稳妥",
       "reason": "路边秋林、蓝色湖水与山景；与 South Lake Road 组合。",
-      "pitfall": "不进入高山湖徒步路线。热门时段停车难；避免黄昏才到，雨雪来临不深入高处。",
+      "pitfall": "本次每天 10 点出门，Bishop 已移出主行程；以下供另一次旅行参考。不进入高山湖徒步路线。热门时段停车难；避免黄昏才到，雨雪来临不深入高处。",
       "sources": [
         "6ac34583000000001801b992",
         "6ac17d8f000000001203d9c5",
@@ -2578,10 +2348,10 @@
       "kind": "餐厅",
       "lat": 37.368,
       "lon": -118.396,
-      "verdict": "优先",
+      "verdict": "备选",
       "car": "稳妥",
       "reason": "多帖推荐热 pastrami／烟熏牛肉三明治和面包，适合买路餐。",
-      "pitfall": "分量大可考虑半份；热门时段排队。只在 Bishop 方案顺路。",
+      "pitfall": "本次每天 10 点出门，Bishop 已移出主行程；以下供另一次旅行参考。分量大可考虑半份；热门时段排队。只在 Bishop 方案顺路。",
       "sources": [
         "6ac57be4000000001301ac1c",
         "6a67a9590000000001003359",
@@ -2957,6 +2727,30 @@
       "url": "https://www.bestwestern.com/en_US/book/hotel-details.05408.html",
       "checked": "2026-10-07",
       "text": "周五西侧过夜候选，19551 Hess Avenue，靠 108；官网列早餐与停车。酒店电话 (209) 533‑4400；未查日期对应的价格和余房。"
+    },
+    {
+      "name": "In‑N‑Out Carson City 营业时间",
+      "url": "https://locations.in-n-out.com/187-Carson-City",
+      "checked": "2026-10-07",
+      "text": "957 Topsy Ln，周日 10:30–次日 01:00；返程晚餐快餐备选。"
+    },
+    {
+      "name": "NWS June Lake 周末天气",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=37.78&lon=-119.076",
+      "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
+      "text": "周六最高约16°C，夜间3°C，阵风最高40mph；周日最高约12°C，可能阵雨，夜间约1°C。"
+    },
+    {
+      "name": "NWS Convict Lake 周末天气",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=37.589&lon=-118.854",
+      "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
+      "text": "周六最高约15°C，夜间3°C，阵风最高45mph；周日最高约11°C，可能阵雨，夜间约1°C。"
+    },
+    {
+      "name": "NWS Sonora Pass 周末天气",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.328&lon=-119.636",
+      "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
+      "text": "周六最高约9°C，强风，持续风约36–44mph；周日最高约6°C，可能阵雪。高山口以通过为主。"
     }
   ]
 }
