@@ -1484,14 +1484,14 @@
     },
     {
       "id": "hot",
-      "name": "Hot Creek／Brees Lookout",
+      "name": "Hot Creek Geologic Site／Brees Lookout",
       "region": "Mammoth",
       "kind": "景点",
       "lat": 37.661,
       "lon": -118.83,
       "verdict": "优先",
       "car": "谨慎",
-      "reason": "短停即可看地热河谷；晴天河道色彩最突出。",
+      "reason": "周日第一主景点，上方观景；配图为附近 Brees Lookout。",
       "pitfall": "最后碎石段慢开，遇深坑折返；官方严禁游泳、涉水及触水，不能模仿帖子。",
       "sources": [
         "6ac309500000000018004242",
@@ -1514,9 +1514,9 @@
         "6abc92fe000000000e03f400",
         "6ab9cafa000000001500f8d7"
       ],
-      "time": "30–45 分钟",
+      "time": "25 分钟",
       "photoSource": "6ab32e50000000001301af48",
-      "navQuery": "Brees Lookout Hot Creek Mammoth Lakes CA"
+      "navQuery": "Hot Creek Geologic Site Mammoth Lakes CA"
     },
     {
       "id": "mcgee",
@@ -1549,9 +1549,9 @@
       "kind": "景点",
       "lat": 37.787,
       "lon": -119.129,
-      "verdict": "备选",
+      "verdict": "优先",
       "car": "稳妥",
-      "reason": "湖区风景、Silver 日用区白杨；适合少开车方案。",
+      "reason": "周六第二主景点，从 158 南入口进入；停车区附近湖岸散步。",
       "pitfall": "10/3–5 一些帖子称仍偏绿，本周颜色不保证；10/9–11 当地活动可能更忙。",
       "sources": [
         "6ac1825f000000001403b6af",
@@ -1565,7 +1565,7 @@
         "6abc92fe000000000e03f400",
         "6ab7b49c0000000018012220"
       ],
-      "time": "1.5–2 小时",
+      "time": "25 分钟",
       "photoSource": null,
       "navQuery": "Silver Lake Day Use Area June Lake CA"
     },
@@ -1619,10 +1619,10 @@
       "kind": "景点",
       "lat": 37.938,
       "lon": -119.029,
-      "verdict": "备选",
+      "verdict": "优先",
       "car": "稳妥",
       "reason": "钙华塔、夕阳与荒漠地貌，适合摄影。",
-      "pitfall": "有虫与气味；本次周日赶返程，安排为 Saturday 的替换项。",
+      "pitfall": "已采用为周六主景点；下午到访不等日落、不攀爬石灰华。County Park 栈道火灾关闭，导航到 South Tufa。",
       "sources": [
         "6ac26b0f000000001b032eef",
         "6ac1825f000000001403b6af",
@@ -1635,8 +1635,8 @@
         "6ac60d480000000014002aff",
         "6ac31a1f000000000a026be9"
       ],
-      "time": "45–60 分钟",
-      "photoSource": null,
+      "time": "45 分钟",
+      "photoSource": "6ac60d480000000014002aff",
       "navQuery": "Mono Lake South Tufa CA"
     },
     {
@@ -2140,13 +2140,37 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=38.328&lon=-119.636",
       "checked": "2026-10-07 查询 NWS 地点网格预报；有效日期 10/9–11",
       "text": "周六最高约9°C，强风，持续风约36–44mph；周日最高约6°C，可能阵雪。高山口以通过为主。"
+    },
+    {
+      "name": "Mono Lake 开放情况",
+      "url": "https://www.parks.ca.gov/?page_id=514",
+      "checked": "2026-10-07",
+      "text": "South Tufa 为本次主景点；County Park 栈道因 Inn Fire 关闭。"
+    },
+    {
+      "name": "June Lake 顺路观景",
+      "url": "https://www.monocounty.org/places-to-go/lakes-rivers-creeks/june-lake/",
+      "checked": "2026-10-07",
+      "text": "Oh Ridge 方向湖景为周六备选，只在开放的合法停车区短停。"
+    },
+    {
+      "name": "Mono Basin Visitor Center",
+      "url": "https://sierraforever.org/visitor-centers/",
+      "checked": "2026-10-07",
+      "text": "季节开放先电话确认，周日备选仅短看景观或展览。"
+    },
+    {
+      "name": "Bridgeport Courthouse",
+      "url": "https://www.mono.courts.ca.gov/location/bridgeport-courthouse",
+      "checked": "2026-10-07",
+      "text": "周日备选只看外观；官网建筑开放列周二。"
     }
   ],
   "itineraries": {
     "calm": {
-      "name": "早餐后 10 点出发 · 看湖自驾",
-      "desc": "周六、周日 09:00–10:00 吃完早餐，10:00 开始当天行程，午餐约 13 点、晚餐 18–19 点；集中 June Lake／Mammoth，无硬核徒步、无湾区餐厅推荐，周日目标 22:00–23:00 回 San Jose。",
-      "drive": "全程驾驶粗估 14–17 小时",
+      "name": "两天各两站 · 看湖自驾",
+      "desc": "周六 Mono Lake + Silver Lake，Conway 顺路短停；周日 Hot Creek + Convict Lake 后返程。09–10 吃完早餐、10 点出发，正常午晚餐，周日目标 23–24 点回 San Jose。备选每日至多一站，不计入基准时间。",
+      "drive": "全程驾驶粗估 17–19 小时",
       "days": [
         {
           "day": "FRI",
@@ -2171,7 +2195,7 @@
         {
           "day": "SAT",
           "date": "10.10",
-          "title": "09–10 早餐 → 10 点出发 → Lee Vining 午餐 → 湖景 → Mammoth 晚餐",
+          "title": "Conway 短停 → Mono Lake → Silver Lake → Mammoth 住宿",
           "stay": "Mammoth Lakes",
           "stops": [
             [
@@ -2195,31 +2219,37 @@
             [
               "12:50–13:00",
               "Conway Summit",
-              "顺路观景拍照，不进入步道；开车延误就跳过，先去吃午餐。",
+              "顺路短停；开车延误就跳过，先去吃午餐。",
               "conway"
             ],
             [
               "13:15–14:15",
               "Lee Vining 午餐",
-              "三选一 · 留一小时正常吃饭。Whoa Nellie 需先确认季节营业；未确认选 Nicely’s 或 Basin。 选项：Nicely’s Restaurant／The Basin Cafe／Whoa Nellie Deli",
+              "三选一 · 留一小时正常吃饭。Whoa Nellie 先确认季节营业；未确认选前两家。 选项：Nicely’s Restaurant／The Basin Cafe／Whoa Nellie Deli",
               ""
             ],
             [
-              "14:45–15:10",
+              "14:40–15:25",
+              "Mono Lake · South Tufa",
+              "South Tufa 平缓湖岸往返约 45 分钟，含停车拍照；不等日落。",
+              "mono"
+            ],
+            [
+              "16:00–16:25",
               "Silver Lake",
-              "158 北入口 → Silver Lake；停车后湖岸散步 10–20 分钟。",
+              "158 南入口 → Silver Lake；湖岸散步 10–20 分钟，不走山间步道。",
               "silver"
             ],
             [
-              "16:00–16:20",
-              "Hot Creek / Brees Lookout",
-              "只在观景区拍照；遇风雨、碎石坑或延误就跳过，直接回镇休息。",
-              "hot"
+              "Silver Lake 之后",
+              "顺路加一站 · 可跳过",
+              "最多 1 站 · 额外 +15–20 分钟，未计入主线；后面时间顺延。天色、风雨或进度不合适就直接回酒店。 选项：June Lake Overlook",
+              ""
             ],
             [
-              "17:00",
+              "约 17:15",
               "今晚住 Mammoth",
-              "两家可比较，先放行李、休息，再吃晚餐。 选项：Alpenhof Lodge／Limelight Mammoth",
+              "两家可比较，先放行李、休息，再吃晚餐。选备选站后抵达时间顺延。 选项：Alpenhof Lodge／Limelight Mammoth",
               ""
             ],
             [
@@ -2233,7 +2263,7 @@
         {
           "day": "SUN",
           "date": "10.11",
-          "title": "09–10 早餐 → 10 点出发 → Convict → Carson 午餐 → Placerville 晚餐 → 到家",
+          "title": "Hot Creek → Convict Lake → Lee Vining 午餐 → US‑50 返程",
           "stay": "回 San Jose",
           "stops": [
             [
@@ -2244,56 +2274,68 @@
             ],
             [
               "10:00",
-              "早餐后出发 · Mammoth → Convict Lake",
-              "约 20 分钟到湖边停车区；出发前确认雨雪、395 和 US‑50 路况。",
+              "早餐后出发 · Mammoth → Hot Creek",
+              "约 20–25 分钟到上方观景停车区；出发前查雨雪、395 和 US‑50 路况。",
               ""
             ],
             [
-              "10:20–10:40",
+              "10:25–10:50",
+              "Hot Creek Geologic Site",
+              "上方观景，不下溪谷。附近 Brees Lookout 仅在路面允许时看，合计 25 分钟；碎石深坑、结冰就跳过。",
+              "hot"
+            ],
+            [
+              "11:20–11:45",
               "Convict Lake",
-              "湖岸散步 10–20 分钟，不走完整环湖；风雨或延误就省略。",
+              "停车区附近湖岸散步 10–20 分钟，不走完整环湖。",
               "convict"
             ],
             [
-              "11:00",
-              "Convict Lake → US‑395 → Carson City",
-              "从湖区向北返程，约 2.5 小时含短休息。不再增加景点，把午餐放在前方的 Carson City。",
+              "12:35–13:30",
+              "Lee Vining 午餐",
+              "三选一 · 正常午餐，13:30 吃完向北走。Basin 周日 13:45 关门；Whoa Nellie 先确认季节营业，未确认选前两家。 选项：Nicely’s Restaurant／The Basin Cafe／Whoa Nellie Deli",
               ""
             ],
             [
-              "13:30–14:30",
-              "Carson City 午餐",
-              "三选一 · 正常午餐，留一小时吃饭、加油和上洗手间；约 14:30 继续向西。 选项：Great Basin／The Fox／In‑N‑Out",
+              "午餐后北行途中",
+              "顺路加一站 · 可跳过",
+              "二选一，最多 1 站 · 额外 +10–15 分钟，后面时间顺延。仅在准时 13:30 北行、路况正常且导航预计 23:15 前到家时停，否则全部跳过。 选项：Mono Basin Visitor Center／Bridgeport Courthouse",
               ""
             ],
             [
-              "14:30",
+              "13:30",
+              "Lee Vining → US‑395 → Carson City",
+              "约 2.5 小时驾驶。备选分别在离开 Lee Vining 后、经过 Bridgeport 时；不是两个都停。",
+              ""
+            ],
+            [
+              "16:00–16:20",
+              "Carson City · 加油与短休息",
+              "补给、洗手间、休息后经 US‑50 继续。此处不安排第二顿午餐。",
+              ""
+            ],
+            [
+              "16:20",
               "Carson City → US‑50 → Placerville",
-              "预留约 2.5–3 小时含山路与短休息，争取白天翻过山段。US‑50 仍须确认链条要求与通行状态。",
+              "约 2.25–2.5 小时含短休息；US‑50 仍须查链条要求与通行状态。天气或车流会增加耗时。",
               ""
             ],
             [
-              "约 17:00–18:00",
-              "Placerville · 到达后休息",
-              "先停好车、休息；18:00 正常吃晚餐。若路上延误，这一小时优先用作缓冲，不额外加景点。",
-              ""
-            ],
-            [
-              "18:00–19:00",
+              "18:45–19:45",
               "Placerville 晚餐",
-              "三选一 · 坐下正常吃晚餐。The Independent 先问订位；吃完约 19:00 再开回湾区。 选项：The Independent／Bricks Eats & Drinks／In‑N‑Out",
+              "三选一 · 正常晚餐。Independent / Bricks 周日 20:00 关门，先确认订位与最后点餐时间；延误优先选营业更晚的 In‑N‑Out。 选项：The Independent／Bricks Eats & Drinks／In‑N‑Out",
               ""
             ],
             [
-              "19:00",
+              "19:45",
               "Placerville → San Jose",
-              "预留 3–4 小时含休息、周日晚车流和到家缓冲；沿途不再安排景点。",
+              "约 3–4 小时含休息、周日晚车流和到家缓冲；不再加景点。",
               ""
             ],
             [
-              "约 22:00–23:00",
+              "约 23:00–24:00",
               "回到 San Jose",
-              "目标周日午夜前到家；天气、管制和拥堵仍可能改变到达时间。不安排湾区餐厅。",
+              "目标周日午夜前；这个方案回程偏紧，天气、管制和拥堵可能导致超过午夜。延误先删备选；不安排湾区餐厅。",
               ""
             ]
           ]
