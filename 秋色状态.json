@@ -2,11 +2,11 @@
   "version": 1,
   "source": "https://californiafallcolor.com/map/",
   "mapUrl": "https://www.google.com/maps/d/embed?mid=12FSQxbVe9CedswOvJaWaeI5vvYU",
-  "checkedAt": "2026-10-08T20:53:19+00:00",
-  "lastSuccessAt": "2026-10-08T20:53:19+00:00",
+  "checkedAt": "2026-10-09T06:21:33+00:00",
+  "lastSuccessAt": "2026-10-09T06:21:33+00:00",
   "ok": true,
-  "stateChangedAt": "2026-10-08T07:42:37+00:00",
-  "fingerprint": "8b1bd804e63f0536485855835ceb555b5fb29e3d36bb1f7256441d532a3b27e6",
+  "stateChangedAt": "2026-10-09T06:21:33+00:00",
+  "fingerprint": "147aaf9103c338185019e0059e8e8b3172456886622e41329b44b4fa938c411b",
   "observedAt": null,
   "legend": {
     "past": {
@@ -64,21 +64,21 @@
       "name": "Dunderberg Mill",
       "lat": 38.10389,
       "lon": -119.24944,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Dunderberg Meadow",
       "lat": 38.1191083,
       "lon": -119.231967,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Summers Meadow Rd",
       "lat": 38.1614885,
       "lon": -119.292512,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -92,91 +92,91 @@
       "name": "Green Creek Campground",
       "lat": 38.1090653,
       "lon": -119.2787935,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Green Creek Road",
       "lat": 38.1403673,
       "lon": -119.2275511,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Greenstone Lake",
       "lat": 37.9722146,
       "lon": -119.28281310000001,
-      "stage": "near",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Lundy Canyon",
       "lat": 38.022199,
       "lon": -119.2647543,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Lundy Lake Road",
       "lat": 38.0333345,
       "lon": -119.21335999999997,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Lundy Lake Campground",
       "lat": 38.0277136,
       "lon": -119.24009940000002,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sagehen Summit",
       "lat": 37.8665961,
       "lon": -118.8593037,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Tioga Pass",
       "lat": 37.9110371,
       "lon": -119.25792999999999,
-      "stage": "near",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Saddlebag Lake",
       "lat": 37.9590871,
       "lon": -119.2647886,
-      "stage": "near",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Little Lakes Valley Trail",
       "lat": 37.4143053,
       "lon": -118.75547599999999,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Rock Creek Lake",
       "lat": 37.4491736,
       "lon": -118.735224,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Hilton Lakes Trailhead",
       "lat": 37.4549334,
       "lon": -118.74122769999997,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Monitor Pass",
       "lat": 38.6759936,
       "lon": -119.6206104,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -246,91 +246,91 @@
       "name": "Walker Lake",
       "lat": 37.8730918,
       "lon": -119.15217880000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Taylor Creek",
       "lat": 38.9329716,
       "lon": -120.0558396,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Modoc National Forest",
       "lat": 41.6882967,
       "lon": -120.88806150000002,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Weed",
       "lat": 41.42264979999999,
       "lon": -122.38612690000002,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Klamath National Forest",
       "lat": 41.8480817,
       "lon": -123.0647278,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Fort Jones",
       "lat": 41.6076387,
       "lon": -122.84030989999998,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Greenview",
       "lat": 41.5630189,
       "lon": -122.9028555,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Etna",
       "lat": 41.4568065,
       "lon": -122.89475510000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Mount Shasta",
       "lat": 41.3120948,
       "lon": -122.3144826,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Panther Meadow",
       "lat": 41.35487619999999,
       "lon": -122.20056369999998,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Lake Siskiyou",
       "lat": 41.2869073,
       "lon": -122.3338847,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "McCloud Falls - Upper Fall",
       "lat": 41.243262,
       "lon": -122.00894599999997,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "McCloud",
       "lat": 41.2623238,
       "lon": -122.13882069999998,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -358,56 +358,56 @@
       "name": "Mossbrae Falls",
       "lat": 41.2421235,
       "lon": -122.2665987,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Hedge Creek",
       "lat": 41.2373946,
       "lon": -122.2684174,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Castle Creek",
       "lat": 41.1451173,
       "lon": -122.31521130000002,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Sims Bridge",
       "lat": 41.0641127,
       "lon": -122.3595321,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Coffee Creek",
       "lat": 41.0977721,
       "lon": -122.7670895,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Weaverville",
       "lat": 40.734823,
       "lon": -122.93996429999999,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Sundial Bridge",
       "lat": 40.5870771,
       "lon": -122.37100120000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Anderson",
       "lat": 40.42738150000001,
       "lon": -122.27954860000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -477,14 +477,14 @@
       "name": "Burney Falls",
       "lat": 41.0107162,
       "lon": -121.65276489999997,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Fall River Mills",
       "lat": 41.0046076,
       "lon": -121.43831390000003,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -575,14 +575,14 @@
       "name": "Sacramento River Trail",
       "lat": 40.65184039999999,
       "lon": -122.43937,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Hayfork",
       "lat": 40.5543106,
       "lon": -123.18308389999999,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -617,21 +617,21 @@
       "name": "Agate Bay",
       "lat": 39.2321104,
       "lon": -120.0746756,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "US 50 - 6,400'",
       "lat": 38.8009218,
       "lon": -120.1198983,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "US 50 - 5,400'",
       "lat": 38.7876345,
       "lon": -120.1632965,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -722,112 +722,112 @@
       "name": "Little Walker Rd.",
       "lat": 38.3249591,
       "lon": -119.4441748,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Barney Lake",
       "lat": 38.1436024,
       "lon": -119.4378233,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Bridgeport/Twin Lakes",
       "lat": 38.1723599,
       "lon": -119.3296939,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Conway Summit",
       "lat": 38.0902692,
       "lon": -119.1811895,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Lee Vining Canyon",
       "lat": 37.9246605,
       "lon": -119.148325,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Bloody Canyon Trail",
       "lat": 37.8899433,
       "lon": -119.11758900000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Parker Lake",
       "lat": 37.8301582,
       "lon": -119.1490888,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "June Lake Loop",
       "lat": 37.7985536,
       "lon": -119.0632753,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sherwin Creek Campground",
       "lat": 37.6246327,
       "lon": -118.9295716,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Twin Lakes, Mammoth Lakes",
       "lat": 37.6134156,
       "lon": -119.00067550000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Mammoth Lakes Basin",
       "lat": 37.6010606,
       "lon": -118.9995375,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Devil's Postpile NM",
       "lat": 37.6254482,
       "lon": -119.0848411,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sherwin Lakes",
       "lat": 37.5996055,
       "lon": -118.9345464,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Laurel Canyon",
       "lat": 37.5891051,
       "lon": -118.9108658,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Convict Lake",
       "lat": 37.5858996,
       "lon": -118.8644635,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lower Rock Creek Rd.",
       "lat": 37.5453939,
       "lon": -118.6489534,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -841,14 +841,14 @@
       "name": "Upper Rock Creek Rd.",
       "lat": 37.4652585,
       "lon": -118.7292833,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Aspendell",
       "lat": 37.2375029,
       "lon": -118.5971838,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -876,7 +876,7 @@
       "name": "Mist Falls",
       "lat": 37.2291929,
       "lon": -118.5645707,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -918,14 +918,14 @@
       "name": "Tuolumne Meadows Visitor Center",
       "lat": 37.866274,
       "lon": -119.3677546,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Olmsted Point",
       "lat": 37.8054437,
       "lon": -119.4787856,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -960,14 +960,14 @@
       "name": "Redwood Nat'l & State Parks",
       "lat": 41.3341066,
       "lon": -124.03125849999999,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Eel River",
       "lat": 40.4236377,
       "lon": -123.9772368,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -1254,7 +1254,7 @@
       "name": "Leavitt Meadows Trailhead (recgovnpsdata)",
       "lat": 38.3336,
       "lon": -119.55189999999999,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1275,21 +1275,21 @@
       "name": "Round Valley",
       "lat": 37.4193758,
       "lon": -118.58761909999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Pine Creek Rd.",
       "lat": 37.393073,
       "lon": -118.6626434,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Pine Creek Pack Station",
       "lat": 37.3621224,
       "lon": -118.6908947,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1317,7 +1317,7 @@
       "name": "Sabrina Campground",
       "lat": 37.2191598,
       "lon": -118.6068295,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -1345,14 +1345,14 @@
       "name": "Groves above Cardinal Village",
       "lat": 37.2270545,
       "lon": -118.5987373,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Surveyor's Meadow",
       "lat": 37.2044017,
       "lon": -118.5700237,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -1380,7 +1380,7 @@
       "name": "North Lake",
       "lat": 37.2312011,
       "lon": -118.6126894,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -1394,7 +1394,7 @@
       "name": "North Lake Road",
       "lat": 37.2293726,
       "lon": -118.610076,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -1408,14 +1408,14 @@
       "name": "Buckley Ponds",
       "lat": 37.3412469,
       "lon": -118.3338694,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Sonora Pass",
       "lat": 38.32769100000001,
       "lon": -119.6368387,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1639,14 +1639,14 @@
       "name": "Lobdell Lake Road",
       "lat": 38.410105,
       "lon": -119.380699,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Ellery Lake",
       "lat": 37.9356696,
       "lon": -119.23716350000001,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1660,7 +1660,7 @@
       "name": "Willows Campground",
       "lat": 37.1940991,
       "lon": -118.56038790000002,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1688,7 +1688,7 @@
       "name": "Mammoth Rock",
       "lat": 37.6149362,
       "lon": -118.9912435,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1716,21 +1716,21 @@
       "name": "Gull Lake",
       "lat": 37.7755158,
       "lon": -119.08308269999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Silver Lake",
       "lat": 37.7763244,
       "lon": -119.12525249999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Grant Lake",
       "lat": 37.842325,
       "lon": -119.1128936,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1744,7 +1744,7 @@
       "name": "Tallac Creek",
       "lat": 38.9353111,
       "lon": -120.0791073,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1765,21 +1765,21 @@
       "name": "Upper Truckee River",
       "lat": 38.9205631,
       "lon": -119.9867427,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Obsidian Campground",
       "lat": 38.29697609999999,
       "lon": -119.44683550000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lobdell Lake",
       "lat": 38.4416064,
       "lon": -119.36350729999998,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2066,7 +2066,7 @@
       "name": "Twin Falls Overlook",
       "lat": 37.6108454,
       "lon": -119.0104907,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2080,28 +2080,28 @@
       "name": "Leavitt Meadows Pack Station",
       "lat": 38.3256135,
       "lon": -119.55244670000002,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Mt. Rose Hwy",
       "lat": 39.3225854,
       "lon": -119.8991646,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Tahoe City",
       "lat": 39.1677134,
       "lon": -120.14518120000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Kings Beach",
       "lat": 39.2376846,
       "lon": -120.02657979999998,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2136,7 +2136,7 @@
       "name": "Faery Falls",
       "lat": 41.2612635,
       "lon": -122.33528910000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2192,14 +2192,14 @@
       "name": "Happy Camp",
       "lat": 41.79265399999999,
       "lon": -123.37857050000002,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Clear Creek",
       "lat": 41.7092899,
       "lon": -123.45033469999998,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2234,7 +2234,7 @@
       "name": "Dunsmuir Botanical Gardens",
       "lat": 41.2252657,
       "lon": -122.27868890000002,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2255,21 +2255,21 @@
       "name": "Grizzly Creek Redwoods State Park",
       "lat": 40.48555499999999,
       "lon": -123.90685200000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Van Duzen Park - Pamplin Grove",
       "lat": 40.497862,
       "lon": -123.98135400000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Humboldt Redwoods State Park",
       "lat": 40.30674399999999,
       "lon": -123.90391390000002,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2297,42 +2297,42 @@
       "name": "Avenue of the Giants",
       "lat": 40.2472915,
       "lon": -123.8227027,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Del Norte Coast Redwoods State Park",
       "lat": 41.6729413,
       "lon": -124.11567339999999,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Lost Man Creek Picnic Area",
       "lat": 41.3271439,
       "lon": -124.0153899,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Newton B. Drury Scenic Parkway",
       "lat": 41.408018,
       "lon": -124.03006800000003,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Howland Hill Road",
       "lat": 41.7582472,
       "lon": -124.15407870000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Jedediah Smith Redwoods State Park",
       "lat": 41.7955087,
       "lon": -124.10468270000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2542,14 +2542,14 @@
       "name": "Crater Creek",
       "lat": 37.5797884,
       "lon": -119.04883330000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Cassel",
       "lat": 40.9170121,
       "lon": -121.5571089,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2577,21 +2577,21 @@
       "name": "Molybdenite Creek",
       "lat": 38.2939192,
       "lon": -119.442229,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sweetwater Mountains",
       "lat": 38.4332488,
       "lon": -119.3009912,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Scott River",
       "lat": 41.7790209,
       "lon": -123.0350393,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2605,7 +2605,7 @@
       "name": "Marble Mountain Wilderness",
       "lat": 41.4888764,
       "lon": -123.21531770000001,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2654,21 +2654,21 @@
       "name": "Lewiston Bridge",
       "lat": 40.7079219,
       "lon": -122.8079823,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
       "name": "Thompson Lake",
       "lat": 37.2020496,
       "lon": -118.95832280000002,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lower Summers Meadow Road",
       "lat": 38.1674438,
       "lon": -119.24331890000002,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2696,7 +2696,7 @@
       "name": "Redding",
       "lat": 40.5865396,
       "lon": -122.3916754,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2724,7 +2724,7 @@
       "name": "Convict Lake Campground",
       "lat": 37.59513849999999,
       "lon": -118.84786070000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2843,7 +2843,7 @@
       "name": "Lake George",
       "lat": 37.6031274,
       "lon": -119.0113639,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2857,14 +2857,14 @@
       "name": "Upper Summers Meadow",
       "lat": 38.1254369,
       "lon": -119.2903834,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Reds Meadow",
       "lat": 37.6199364,
       "lon": -119.0754114,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2885,21 +2885,21 @@
       "name": "Leavitt Creek",
       "lat": 38.3032242,
       "lon": -119.5933795,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Bodie State Historic Park",
       "lat": 38.1752651,
       "lon": -119.1620096,
-      "stage": "near",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Rush Creek",
       "lat": 37.76468,
       "lon": -119.1258581,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2948,7 +2948,7 @@
       "name": "Trinity Alps Wilderness",
       "lat": 41.01652840000001,
       "lon": -123.0861477,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -2969,7 +2969,7 @@
       "name": "Trinity River",
       "lat": 40.888715,
       "lon": -123.6013422,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -3018,7 +3018,7 @@
       "name": "Arcata",
       "lat": 40.8665166,
       "lon": -124.0828396,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -3032,7 +3032,7 @@
       "name": "Prairie Creek Redwoods State Park",
       "lat": 41.4016041,
       "lon": -124.0416172,
-      "stage": "unknown",
+      "stage": "starting",
       "observedAt": null
     },
     {
@@ -3053,21 +3053,21 @@
       "name": "Emerald Bay State Park",
       "lat": 38.9542445,
       "lon": -120.110414,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Tom's Place - 8180 Crowley Lake Drive",
       "lat": 37.561359,
       "lon": -118.681168,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Mammoth Lakes",
       "lat": 37.648546,
       "lon": -118.972079,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -3081,7 +3081,7 @@
       "name": "Poole Powerplant",
       "lat": 37.9441559,
       "lon": -119.2149538,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -3097,32 +3097,39 @@
       "lon": -122.5241487,
       "stage": "starting",
       "observedAt": null
+    },
+    {
+      "name": "Spooner Lake",
+      "lat": 39.1076033,
+      "lon": -119.9089976,
+      "stage": "past",
+      "observedAt": null
     }
   ],
   "entries": {
     "pass": {
-      "stage": "near",
+      "stage": "peak",
       "sourceName": "Sonora Pass",
       "regional": false,
       "listed": true,
       "observedAt": null
     },
     "conway": {
-      "stage": "patchy",
+      "stage": "peak",
       "sourceName": "Conway Summit",
       "regional": false,
       "listed": true,
       "observedAt": null
     },
     "silver": {
-      "stage": "patchy",
+      "stage": "near",
       "sourceName": "Silver Lake",
       "regional": false,
       "listed": true,
       "observedAt": null
     },
     "convict": {
-      "stage": "patchy",
+      "stage": "near",
       "sourceName": "Convict Lake",
       "regional": false,
       "listed": true,
@@ -3143,7 +3150,7 @@
       "observedAt": null
     },
     "june-overlook": {
-      "stage": "patchy",
+      "stage": "near",
       "sourceName": "June Lake Loop",
       "regional": true,
       "listed": true,
