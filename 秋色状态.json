@@ -2,11 +2,11 @@
   "version": 1,
   "source": "https://californiafallcolor.com/map/",
   "mapUrl": "https://www.google.com/maps/d/embed?mid=12FSQxbVe9CedswOvJaWaeI5vvYU",
-  "checkedAt": "2026-10-16T11:38:20+00:00",
-  "lastSuccessAt": "2026-10-16T11:38:20+00:00",
+  "checkedAt": "2026-10-16T16:47:31+00:00",
+  "lastSuccessAt": "2026-10-16T16:47:31+00:00",
   "ok": true,
-  "stateChangedAt": "2026-10-16T11:38:20+00:00",
-  "fingerprint": "f17895da39b1a730543c76a4d5e1704fe93d72c373c62ed38b7fadc87bce5103",
+  "stateChangedAt": "2026-10-16T16:47:31+00:00",
+  "fingerprint": "75d4edb537d4c04a028f19553c45c2c61ed9f43924a1427b7e39e00d70970d7d",
   "observedAt": null,
   "legend": {
     "past": {
@@ -190,28 +190,28 @@
       "name": "Cottonwood Creek",
       "lat": 39.5494233,
       "lon": -120.31700850000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Cold Creek Campground",
       "lat": 39.5428709,
       "lon": -120.31578539999998,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Cold Stream",
       "lat": 39.5239043,
       "lon": -120.2908514,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Upper Little Truckee Campground",
       "lat": 39.4907944,
       "lon": -120.2449107,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -456,7 +456,7 @@
       "name": "Cisco Grove",
       "lat": 39.3099025,
       "lon": -120.53992970000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -505,7 +505,7 @@
       "name": "Marlette Lake",
       "lat": 39.1741721,
       "lon": -119.90032109999999,
-      "stage": "near",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -1681,7 +1681,7 @@
       "name": "Truckee",
       "lat": 39.327962,
       "lon": -120.18325329999999,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1702,7 +1702,7 @@
       "name": "Tahoe Donner",
       "lat": 39.3598267,
       "lon": -120.2603173,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1751,14 +1751,14 @@
       "name": "Sierraville",
       "lat": 39.5895383,
       "lon": -120.36698039999999,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sierra City",
       "lat": 39.5664883,
       "lon": -120.6340689,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1961,7 +1961,7 @@
       "name": "Rainbow Lodge",
       "lat": 39.3099764,
       "lon": -120.50906270000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1982,14 +1982,14 @@
       "name": "Kingvale",
       "lat": 39.3210149,
       "lon": -120.4288153,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Coldstream Valley",
       "lat": 39.3124607,
       "lon": -120.2353375,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2059,7 +2059,7 @@
       "name": "Bear Valley",
       "lat": 39.3052699,
       "lon": -120.6701399,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2675,7 +2675,7 @@
       "name": "Boca Reservoir",
       "lat": 39.4011625,
       "lon": -120.09829560000003,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2913,14 +2913,14 @@
       "name": "Salmon Creek Campground",
       "lat": 39.62696369999999,
       "lon": -120.6153865,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Yuba Pass",
       "lat": 39.5766679,
       "lon": -120.6121185,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -3074,7 +3074,7 @@
       "name": "Packer Lake",
       "lat": 39.6225165,
       "lon": -120.6555806,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
