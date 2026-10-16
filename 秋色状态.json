@@ -2,11 +2,11 @@
   "version": 1,
   "source": "https://californiafallcolor.com/map/",
   "mapUrl": "https://www.google.com/maps/d/embed?mid=12FSQxbVe9CedswOvJaWaeI5vvYU",
-  "checkedAt": "2026-10-16T16:47:31+00:00",
-  "lastSuccessAt": "2026-10-16T16:47:31+00:00",
+  "checkedAt": "2026-10-16T21:24:34+00:00",
+  "lastSuccessAt": "2026-10-16T21:24:34+00:00",
   "ok": true,
-  "stateChangedAt": "2026-10-16T16:47:31+00:00",
-  "fingerprint": "75d4edb537d4c04a028f19553c45c2c61ed9f43924a1427b7e39e00d70970d7d",
+  "stateChangedAt": "2026-10-16T21:24:34+00:00",
+  "fingerprint": "2906faa5e7f5b3aa2ea661e39b0546c648ed364fdb99bfee51c1c905fe67fa7b",
   "observedAt": null,
   "legend": {
     "past": {
@@ -561,7 +561,7 @@
       "name": "Quincy",
       "lat": 39.9342759,
       "lon": -120.94882970000002,
-      "stage": "near",
+      "stage": "patchy",
       "observedAt": null
     },
     {
@@ -589,7 +589,7 @@
       "name": "American Valley",
       "lat": 39.9402392,
       "lon": -120.9361707,
-      "stage": "near",
+      "stage": "patchy",
       "observedAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "name": "Oakland Camp Road",
       "lat": 39.982817,
       "lon": -120.9060035,
-      "stage": "near",
+      "stage": "patchy",
       "observedAt": null
     },
     {
@@ -2227,7 +2227,7 @@
       "name": "Boyle Ravine",
       "lat": 39.929892,
       "lon": -120.94523190000001,
-      "stage": "near",
+      "stage": "patchy",
       "observedAt": null
     },
     {
@@ -3110,6 +3110,13 @@
       "lat": 36.598051,
       "lon": -121.8648746,
       "stage": "patchy",
+      "observedAt": null
+    },
+    {
+      "name": "Belden",
+      "lat": 40.0084715,
+      "lon": -121.250065,
+      "stage": "starting",
       "observedAt": null
     }
   ],
