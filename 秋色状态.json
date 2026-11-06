@@ -2,11 +2,11 @@
   "version": 1,
   "source": "https://californiafallcolor.com/map/",
   "mapUrl": "https://www.google.com/maps/d/embed?mid=12FSQxbVe9CedswOvJaWaeI5vvYU",
-  "checkedAt": "2026-11-06T07:01:46+00:00",
-  "lastSuccessAt": "2026-11-06T07:01:46+00:00",
+  "checkedAt": "2026-11-06T19:33:33+00:00",
+  "lastSuccessAt": "2026-11-06T19:33:33+00:00",
   "ok": true,
-  "stateChangedAt": "2026-10-30T22:29:51+00:00",
-  "fingerprint": "0e86e70ed3cc0212662b09ccfe8a0f2afe9774c27b23e95c64150024cbf63f60",
+  "stateChangedAt": "2026-11-06T19:33:33+00:00",
+  "fingerprint": "1ee273d18b78f2db86bbdfc43c81d82cdd662fa499ff390eb958424220477bdd",
   "observedAt": null,
   "legend": {
     "past": {
@@ -260,7 +260,7 @@
       "name": "Modoc National Forest",
       "lat": 41.6882967,
       "lon": -120.88806150000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -274,7 +274,7 @@
       "name": "Klamath National Forest",
       "lat": 41.8480817,
       "lon": -123.0647278,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -337,21 +337,21 @@
       "name": "Manzanita Lake",
       "lat": 40.5326867,
       "lon": -121.56734169999999,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Lassen Peak Trailhead",
       "lat": 40.4742811,
       "lon": -121.5055638,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Lassen Volcanic Nat'l Park",
       "lat": 40.465651,
       "lon": -121.5084631,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -393,63 +393,63 @@
       "name": "Weaverville",
       "lat": 40.734823,
       "lon": -122.93996429999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sundial Bridge",
       "lat": 40.5870771,
       "lon": -122.37100120000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Anderson",
       "lat": 40.42738150000001,
       "lon": -122.27954860000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Red Bluff",
       "lat": 40.189496,
       "lon": -122.2137594,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Chico",
       "lat": 39.7306369,
       "lon": -121.8215947,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Gridley",
       "lat": 39.3725257,
       "lon": -121.6941833,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Live Oak",
       "lat": 39.269474,
       "lon": -121.6564178,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Olivehurst",
       "lat": 39.100226,
       "lon": -121.54243470000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Wheatland",
       "lat": 39.0042447,
       "lon": -121.40991210000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -463,14 +463,14 @@
       "name": "Dutch Flat",
       "lat": 39.2059586,
       "lon": -120.8378103,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Alder Creek Campground",
       "lat": 40.2101591,
       "lon": -121.4988325,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -491,14 +491,14 @@
       "name": "Antelope Valley",
       "lat": 40.1788077,
       "lon": -120.60057159999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Frenchman Lake",
       "lat": 39.893275,
       "lon": -120.19231800000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -512,42 +512,42 @@
       "name": "Chester",
       "lat": 40.319483,
       "lon": -121.19432259999999,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Mountain Meadows Reservoir",
       "lat": 40.2920967,
       "lon": -120.9992981,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Greenville",
       "lat": 40.14027,
       "lon": -120.9496235,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Round Valley",
       "lat": 40.1143143,
       "lon": -120.96312049999999,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Indian Valley",
       "lat": 40.1148394,
       "lon": -120.8811951,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Feather River",
       "lat": 39.9983222,
       "lon": -121.2703856,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -568,28 +568,28 @@
       "name": "Downieville",
       "lat": 39.5595198,
       "lon": -120.82769659999997,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sacramento River Trail",
       "lat": 40.65184039999999,
       "lon": -122.43937,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Hayfork",
       "lat": 40.5543106,
       "lon": -123.18308389999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "American Valley",
       "lat": 39.9402392,
       "lon": -120.9361707,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -645,28 +645,28 @@
       "name": "American River",
       "lat": 38.7745622,
       "lon": -120.4711819,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "El Dorado County Vineyards",
       "lat": 38.6891277,
       "lon": -120.6739569,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Newtown Rd",
       "lat": 38.7129099,
       "lon": -120.71160950000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Apple Hill",
       "lat": 38.7461846,
       "lon": -120.6739569,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -750,7 +750,7 @@
       "name": "Lee Vining Canyon",
       "lat": 37.9246605,
       "lon": -119.148325,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -820,7 +820,7 @@
       "name": "Convict Lake",
       "lat": 37.5858996,
       "lon": -118.8644635,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -855,7 +855,7 @@
       "name": "Four Jeffrey Campground",
       "lat": 37.2485335,
       "lon": -118.5706046,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
@@ -897,7 +897,7 @@
       "name": "Bishop",
       "lat": 37.3625102,
       "lon": -118.3845262,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -932,14 +932,14 @@
       "name": "Big Oak Flat Road",
       "lat": 37.7299957,
       "lon": -119.752779,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Fern Spring",
       "lat": 37.7150597,
       "lon": -119.66626170000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -953,168 +953,168 @@
       "name": "Wawona",
       "lat": 37.5524711,
       "lon": -119.6423149,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Redwood Nat'l & State Parks",
       "lat": 41.3341066,
       "lon": -124.03125849999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Eel River",
       "lat": 40.4236377,
       "lon": -123.9772368,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "The Redwood Highway",
       "lat": 39.5259579,
       "lon": -123.3985662,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Ukiah",
       "lat": 39.1598818,
       "lon": -123.2226562,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Hopland",
       "lat": 38.9729541,
       "lon": -123.11639179999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "El Dorado Hills",
       "lat": 38.7311646,
       "lon": -121.0879161,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Mormon Island Wetlands State Park",
       "lat": 38.7050618,
       "lon": -121.10862090000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Fair Oaks Plaza Park",
       "lat": 38.6515502,
       "lon": -121.2632489,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sacramento's Fab 40s",
       "lat": 38.574659,
       "lon": -121.4478278,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "William Land Park",
       "lat": 38.5487193,
       "lon": -121.4918909,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Pocket/Greenhaven",
       "lat": 38.4898758,
       "lon": -121.51029100000001,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Sutter Creek",
       "lat": 38.392967500000005,
       "lon": -120.80243569999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Jackson",
       "lat": 38.3488023,
       "lon": -120.77410179999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Columbia State Historic Park",
       "lat": 38.035761,
       "lon": -120.40007000000004,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Santa Rosa",
       "lat": 38.440429,
       "lon": -122.71405479999999,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Rancho San Antonio",
       "lat": 37.3435988,
       "lon": -122.11436740000002,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Big Basin",
       "lat": 37.1734488,
       "lon": -122.1904134,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Hwy 9, Santa Cruz Mountains",
       "lat": 37.0203722,
       "lon": -122.0620108,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Salinas Valley",
       "lat": 36.2322829,
       "lon": -121.11330699999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lake San Antonio",
       "lat": 35.8112553,
       "lon": -120.92165219999997,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lake Nacimiento Resort",
       "lat": 35.789304,
       "lon": -120.87805000000004,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Oak Glen Preserve",
       "lat": 34.04038250000001,
       "lon": -116.94126340000003,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Valyermo",
       "lat": 34.4473348,
       "lon": -117.8531742,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1177,7 +1177,7 @@
       "name": "Cuyamaca Rancho State Park",
       "lat": 32.9288684,
       "lon": -116.5616369,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
@@ -1191,63 +1191,63 @@
       "name": "Julian",
       "lat": 33.088292,
       "lon": -116.5953976,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Los Penasquitos Canyon Preserve",
       "lat": 32.9374184,
       "lon": -117.13028659999998,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Palomar Mountain",
       "lat": 33.3633675,
       "lon": -116.83557889999997,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Doane Valley Nature Trail",
       "lat": 33.3444786,
       "lon": -116.9064143,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Warner Springs",
       "lat": 33.2835146,
       "lon": -116.6345756,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Hot Springs Mountain",
       "lat": 33.313745000000004,
       "lon": -116.5742897,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Thorn Point",
       "lat": 34.60609839999999,
       "lon": -119.1278848,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Bohemian Highway",
       "lat": 38.4217683,
       "lon": -122.95396749999998,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Mays Canyon Road",
       "lat": 38.4852261,
       "lon": -122.97662270000001,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1261,35 +1261,35 @@
       "name": "Sonoma Valley Regional Park",
       "lat": 38.3604443,
       "lon": -122.5180292,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Clear Lake",
       "lat": 39.0581905,
       "lon": -122.831015,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Round Valley",
       "lat": 37.4193758,
       "lon": -118.58761909999998,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Pine Creek Rd.",
       "lat": 37.393073,
       "lon": -118.6626434,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Pine Creek Pack Station",
       "lat": 37.3621224,
       "lon": -118.6908947,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1387,7 +1387,7 @@
       "name": "Hat Creek Meadow",
       "lat": 40.6491261,
       "lon": -121.458405,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1401,14 +1401,14 @@
       "name": "Oakland Camp Road",
       "lat": 39.982817,
       "lon": -120.9060035,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Buckley Ponds",
       "lat": 37.3412469,
       "lon": -118.3338694,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1422,14 +1422,14 @@
       "name": "Sugarloaf Ridge State Park",
       "lat": 38.43661470000001,
       "lon": -122.51266470000002,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Uvas Canyon County Park",
       "lat": 37.0803776,
       "lon": -121.79646880000001,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1443,14 +1443,14 @@
       "name": "Crystal Cave",
       "lat": 36.5852124,
       "lon": -118.82788110000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sanborn County Park",
       "lat": 37.2348822,
       "lon": -122.05926,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1464,175 +1464,175 @@
       "name": "Alexander Valley Vineyards",
       "lat": 38.7084865,
       "lon": -122.83452990000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sonoma County Vineyards",
       "lat": 38.4370519,
       "lon": -122.56995669999999,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Napa Valley Vineyards",
       "lat": 38.5263862,
       "lon": -122.44515889999998,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lake County Vineyards",
       "lat": 38.9323067,
       "lon": -122.71003240000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Stockton",
       "lat": 37.9577016,
       "lon": -121.29077960000001,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Modesto",
       "lat": 37.63909719999999,
       "lon": -120.99687819999997,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Merced",
       "lat": 37.3021632,
       "lon": -120.48296770000002,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Fresno",
       "lat": 36.7468422,
       "lon": -119.77258680000001,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Berkeley",
       "lat": 37.8715926,
       "lon": -122.27274699999997,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "University of California Botanical Garden at Berkeley",
       "lat": 37.8740622,
       "lon": -122.23738170000001,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Tilden Nature Area",
       "lat": 37.9146243,
       "lon": -122.26514930000002,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Trestle Glen Road",
       "lat": 37.8086897,
       "lon": -122.22690339999997,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lafayette",
       "lat": 37.8857582,
       "lon": -122.11802009999997,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Walnut Creek",
       "lat": 37.9100783,
       "lon": -122.06518189999997,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Danville",
       "lat": 37.820716,
       "lon": -121.9991762,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Golden Gate Park",
       "lat": 37.76942100000001,
       "lon": -122.48621400000003,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Hillsborough",
       "lat": 37.5741032,
       "lon": -122.3794163,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Burlingame",
       "lat": 37.5778696,
       "lon": -122.34809000000003,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Atherton",
       "lat": 37.4613272,
       "lon": -122.19774300000002,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Menlo Park",
       "lat": 37.4529598,
       "lon": -122.18172520000003,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Palo Alto",
       "lat": 37.4418834,
       "lon": -122.14301949999998,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Los Altos",
       "lat": 37.3852183,
       "lon": -122.11412980000001,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Saratoga",
       "lat": 37.2638324,
       "lon": -122.02301460000001,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Campbell",
       "lat": 37.2871651,
       "lon": -121.94995680000001,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Cottonwood Oasis, Joshua Tree NP",
       "lat": 33.7436701,
       "lon": -115.81640979999997,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1674,7 +1674,7 @@
       "name": "Colusa",
       "lat": 39.2143343,
       "lon": -122.00941749999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1786,7 +1786,7 @@
       "name": "Glacier Point Road",
       "lat": 37.67023129999999,
       "lon": -119.62721110000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1800,133 +1800,133 @@
       "name": "Midway Rd.",
       "lat": 39.6879028,
       "lon": -121.8153763,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Durham",
       "lat": 39.6462733,
       "lon": -121.7999767,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Auburn",
       "lat": 38.8965654,
       "lon": -121.07689010000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Coloma",
       "lat": 38.79992139999999,
       "lon": -120.89029160000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Placerville",
       "lat": 38.7296252,
       "lon": -120.79854599999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Jamestown",
       "lat": 37.9532584,
       "lon": -120.42269520000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sonora",
       "lat": 37.98294959999999,
       "lon": -120.3821724,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Calaveras Big Trees State Park",
       "lat": 38.2775178,
       "lon": -120.3092982,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Indian Falls",
       "lat": 40.0615576,
       "lon": -120.96162240000001,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sloat",
       "lat": 39.866667,
       "lon": -120.72750000000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Groveland",
       "lat": 37.8388779,
       "lon": -120.23081669999999,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Coulterville",
       "lat": 37.7107484,
       "lon": -120.19721290000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Mariposa",
       "lat": 37.4849377,
       "lon": -119.96628429999998,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Paradise Lake",
       "lat": 39.8558155,
       "lon": -121.5815547,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Boulder Oaks Campground",
       "lat": 32.7298195,
       "lon": -116.48273640000002,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Channel Islands NP",
       "lat": 34.04865280000001,
       "lon": -119.5585041,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Filoli",
       "lat": 37.4786487,
       "lon": -122.31120090000002,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Briones Regional Park",
       "lat": 37.9432088,
       "lon": -122.1405413,
-      "stage": "starting",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "San Francisco",
       "lat": 37.7749295,
       "lon": -122.41941550000001,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1947,7 +1947,7 @@
       "name": "Elam Campground",
       "lat": 40.249116,
       "lon": -121.448599,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -1968,7 +1968,7 @@
       "name": "Antelope Lake",
       "lat": 40.1996154,
       "lon": -120.6239412,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1989,63 +1989,63 @@
       "name": "Coldstream Valley",
       "lat": 39.3124607,
       "lon": -120.2353375,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Mountain View Cemetery",
       "lat": 37.8322215,
       "lon": -122.2442092,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Anderson Valley",
       "lat": 39.0865657,
       "lon": -123.47945420000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "San Jose",
       "lat": 37.3382082,
       "lon": -121.88632860000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Humbug Summit",
       "lat": 40.1071057,
       "lon": -121.3733024,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Jonesville Hotel",
       "lat": 40.11213590000001,
       "lon": -121.46836819999999,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Humboldt Road",
       "lat": 40.1320129,
       "lon": -121.44144870000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Humboldt Peak",
       "lat": 40.15071570000001,
       "lon": -121.43024930000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Sunflower Flat",
       "lat": 40.0654394,
       "lon": -121.35996840000001,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2108,7 +2108,7 @@
       "name": "Crater Lake Campground",
       "lat": 40.6265669,
       "lon": -121.0418798,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2122,14 +2122,14 @@
       "name": "Janesville",
       "lat": 40.2840423,
       "lon": -120.53942319999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Milford",
       "lat": 40.1713098,
       "lon": -120.3725531,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2143,14 +2143,14 @@
       "name": "San Andreas",
       "lat": 38.1960298,
       "lon": -120.68048720000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Tuolumne Grove Trailhead",
       "lat": 37.758399,
       "lon": -119.80583609999996,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2164,14 +2164,14 @@
       "name": "Sespe Wilderness",
       "lat": 34.58554420000001,
       "lon": -119.02204719999997,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Piedra Blanca Trailhead",
       "lat": 34.5601645,
       "lon": -119.16465549999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2192,28 +2192,28 @@
       "name": "Happy Camp",
       "lat": 41.79265399999999,
       "lon": -123.37857050000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Clear Creek",
       "lat": 41.7092899,
       "lon": -123.45033469999998,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Summit Road",
       "lat": 37.1403461,
       "lon": -121.9707347,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Patchen Pass",
       "lat": 37.1441129,
       "lon": -121.9846814,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2227,7 +2227,7 @@
       "name": "Boyle Ravine",
       "lat": 39.929892,
       "lon": -120.94523190000001,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2241,189 +2241,189 @@
       "name": "Nelson",
       "lat": 39.5521077,
       "lon": -121.76553150000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Oroville",
       "lat": 39.5137752,
       "lon": -121.55635899999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Grizzly Creek Redwoods State Park",
       "lat": 40.48555499999999,
       "lon": -123.90685200000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Van Duzen Park - Pamplin Grove",
       "lat": 40.497862,
       "lon": -123.98135400000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Humboldt Redwoods State Park",
       "lat": 40.30674399999999,
       "lon": -123.90391390000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Nelder Creek",
       "lat": 37.3642246,
       "lon": -119.6188936,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Mammoth Pool Reservoir",
       "lat": 37.3400214,
       "lon": -119.328775,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Rock Creek Campground",
       "lat": 37.2910387,
       "lon": -119.36044479999998,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Avenue of the Giants",
       "lat": 40.2472915,
       "lon": -123.8227027,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Del Norte Coast Redwoods State Park",
       "lat": 41.6729413,
       "lon": -124.11567339999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lost Man Creek Picnic Area",
       "lat": 41.3271439,
       "lon": -124.0153899,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Newton B. Drury Scenic Parkway",
       "lat": 41.408018,
       "lon": -124.03006800000003,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Howland Hill Road",
       "lat": 41.7582472,
       "lon": -124.15407870000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Jedediah Smith Redwoods State Park",
       "lat": 41.7955087,
       "lon": -124.10468270000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Kelseyville",
       "lat": 38.9779531,
       "lon": -122.83943750000003,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Sebastopol",
       "lat": 38.4021359,
       "lon": -122.8238806,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Dublin",
       "lat": 37.7021521,
       "lon": -121.9357918,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Pleasanton",
       "lat": 37.6624312,
       "lon": -121.87467889999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Livermore",
       "lat": 37.6818745,
       "lon": -121.76800880000002,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Davis",
       "lat": 38.5449065,
       "lon": -121.7405167,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "San Luis Obispo",
       "lat": 35.28275240000001,
       "lon": -120.6596156,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Santa Maria",
       "lat": 34.9530337,
       "lon": -120.43571910000003,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Santa Barbara",
       "lat": 34.4208305,
       "lon": -119.69819010000003,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Idyllwild",
       "lat": 33.7389014,
       "lon": -116.7179344,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Lake Hemet",
       "lat": 33.669068100000004,
       "lon": -116.6780404,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Mulholland Highway",
       "lat": 34.10862940000001,
       "lon": -118.7660457,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "King Gillette Ranch",
       "lat": 34.1018989,
       "lon": -118.70493599999998,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
@@ -2451,91 +2451,91 @@
       "name": "Burbank",
       "lat": 34.1808392,
       "lon": -118.30896610000002,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Los Angeles",
       "lat": 34.0522342,
       "lon": -118.2436849,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "West Los Angeles",
       "lat": 34.081797200000004,
       "lon": -118.353492,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Woodland Hills",
       "lat": 34.16535699999999,
       "lon": -118.60897520000003,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Bel Air",
       "lat": 34.1002455,
       "lon": -118.45946300000003,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Descanso Gardens",
       "lat": 34.201266,
       "lon": -118.20979999999997,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Atlantic Avenue",
       "lat": 33.83986,
       "lon": -118.1848965,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Chapman University",
       "lat": 33.7932282,
       "lon": -117.85364700000002,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "LA County Arboretum & Botanic Garden",
       "lat": 34.1524429,
       "lon": -118.0468511,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Santa Catalina Island",
       "lat": 33.3878856,
       "lon": -118.41631030000002,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Fallbrook",
       "lat": 33.3764196,
       "lon": -117.25114659999997,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "University of California San Diego",
       "lat": 32.8800604,
       "lon": -117.2340135,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Long Lake",
       "lat": 40.5117934,
       "lon": -121.0210226,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2556,7 +2556,7 @@
       "name": "Mill Creek",
       "lat": 40.3091052,
       "lon": -121.56333010000003,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2591,7 +2591,7 @@
       "name": "Scott River",
       "lat": 41.7790209,
       "lon": -123.0350393,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2605,7 +2605,7 @@
       "name": "Marble Mountain Wilderness",
       "lat": 41.4888764,
       "lon": -123.21531770000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2626,7 +2626,7 @@
       "name": "Bridal Veil Falls",
       "lat": 38.7657902,
       "lon": -120.4904947,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2640,21 +2640,21 @@
       "name": "Whitley Gardens",
       "lat": 35.652916,
       "lon": -120.509231,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Taylorsville",
       "lat": 40.07544769999999,
       "lon": -120.83967519999999,
-      "stage": "near",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Lewiston Bridge",
       "lat": 40.7079219,
       "lon": -122.8079823,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2675,14 +2675,14 @@
       "name": "Boca Reservoir",
       "lat": 39.4011625,
       "lon": -120.09829560000003,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Dog Valley",
       "lat": 39.56518630000001,
       "lon": -120.02908980000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2696,21 +2696,21 @@
       "name": "Redding",
       "lat": 40.5865396,
       "lon": -122.3916754,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Madrone Lake",
       "lat": 39.6472221,
       "lon": -121.4052581,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Mokelumne Hill",
       "lat": 38.3004709,
       "lon": -120.70632190000003,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2724,35 +2724,35 @@
       "name": "Convict Lake Campground",
       "lat": 37.59513849999999,
       "lon": -118.84786070000001,
-      "stage": "peak",
+      "stage": "past",
       "observedAt": null
     },
     {
       "name": "Humbug-Willow Creek Trail",
       "lat": 38.6561802,
       "lon": -121.093446,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Knights Ferry Covered Bridge",
       "lat": 37.8194008,
       "lon": -120.6635938,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Tuolumne River Campgrounds",
       "lat": 37.63053560000001,
       "lon": -120.5804321,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Woodward Reservoir Regional Park",
       "lat": 37.847123,
       "lon": -120.877006,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2766,63 +2766,63 @@
       "name": "Mendocino National Forest Genetic Resource Center",
       "lat": 39.7070195,
       "lon": -121.7856356,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Roaring Camp",
       "lat": 37.0403366,
       "lon": -122.06095959999999,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Big Sur",
       "lat": 36.2704233,
       "lon": -121.80805559999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Ventana Campground",
       "lat": 36.2598731,
       "lon": -121.74297139999999,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Empire Mine State Park",
       "lat": 39.205952,
       "lon": -121.04386060000002,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Oak Glen",
       "lat": 34.0494574,
       "lon": -116.9478045,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Peters Canyon Regional Park",
       "lat": 33.7840809,
       "lon": -117.76226610000003,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Paramount Ranch",
       "lat": 34.1155076,
       "lon": -118.75614519999999,
-      "stage": "starting",
+      "stage": "patchy",
       "observedAt": null
     },
     {
       "name": "Vasquez Rocks Natural Area Park",
       "lat": 34.48850979999999,
       "lon": -118.32069389999998,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2906,7 +2906,7 @@
       "name": "Lavezzola Creek",
       "lat": 39.5646279,
       "lon": -120.8235194,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -2927,63 +2927,63 @@
       "name": "Nevada City",
       "lat": 39.2642189,
       "lon": -121.0174321,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Grass Valley",
       "lat": 39.2190608,
       "lon": -121.0610606,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Murphys",
       "lat": 38.1374202,
       "lon": -120.4596437,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
       "name": "Trinity Alps Wilderness",
       "lat": 41.01652840000001,
       "lon": -123.0861477,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Susanville Elks Lodge #1487",
       "lat": 40.41929870000001,
       "lon": -120.6645178,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Susan River Canyon",
       "lat": 40.4189834,
       "lon": -120.6734592,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Trinity River",
       "lat": 40.888715,
       "lon": -123.6013422,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Henry Cowell Redwoods State Park",
       "lat": 37.0414077,
       "lon": -122.0672093,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "The Forest of Nisene Marks State Park",
       "lat": 37.0175202,
       "lon": -121.905347,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2997,14 +2997,14 @@
       "name": "Sierra Valley",
       "lat": 39.79406900000001,
       "lon": -120.3757665,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Grizzly Flats",
       "lat": 38.6361156,
       "lon": -120.5276331,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     },
     {
@@ -3018,7 +3018,7 @@
       "name": "Arcata",
       "lat": 40.8665166,
       "lon": -124.0828396,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -3032,7 +3032,7 @@
       "name": "Prairie Creek Redwoods State Park",
       "lat": 41.4016041,
       "lon": -124.0416172,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -3088,14 +3088,14 @@
       "name": "Santa Ynez",
       "lat": 34.6144313,
       "lon": -120.079868,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Glen Ellen",
       "lat": 38.3640795,
       "lon": -122.5241487,
-      "stage": "starting",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -3109,14 +3109,14 @@
       "name": "Monterey",
       "lat": 36.598051,
       "lon": -121.8648746,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Belden",
       "lat": 40.0084715,
       "lon": -121.250065,
-      "stage": "patchy",
+      "stage": "peak",
       "observedAt": null
     }
   ],
@@ -3143,7 +3143,7 @@
       "observedAt": null
     },
     "convict": {
-      "stage": "peak",
+      "stage": "past",
       "sourceName": "Convict Lake",
       "regional": false,
       "listed": true,
