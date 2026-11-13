@@ -2,11 +2,11 @@
   "version": 1,
   "source": "https://californiafallcolor.com/map/",
   "mapUrl": "https://www.google.com/maps/d/embed?mid=12FSQxbVe9CedswOvJaWaeI5vvYU",
-  "checkedAt": "2026-11-12T20:08:48+00:00",
-  "lastSuccessAt": "2026-11-12T20:08:48+00:00",
+  "checkedAt": "2026-11-13T06:57:35+00:00",
+  "lastSuccessAt": "2026-11-13T06:57:35+00:00",
   "ok": true,
-  "stateChangedAt": "2026-11-06T19:33:33+00:00",
-  "fingerprint": "1ee273d18b78f2db86bbdfc43c81d82cdd662fa499ff390eb958424220477bdd",
+  "stateChangedAt": "2026-11-13T06:57:35+00:00",
+  "fingerprint": "d84e066ac326939298fdc9e7d89ff15b99abb135833389083cc852e2e4c67273",
   "observedAt": null,
   "legend": {
     "past": {
@@ -1016,21 +1016,21 @@
       "name": "Sacramento's Fab 40s",
       "lat": 38.574659,
       "lon": -121.4478278,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "William Land Park",
       "lat": 38.5487193,
       "lon": -121.4918909,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Pocket/Greenhaven",
       "lat": 38.4898758,
       "lon": -121.51029100000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -1492,14 +1492,14 @@
       "name": "Stockton",
       "lat": 37.9577016,
       "lon": -121.29077960000001,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
       "name": "Modesto",
       "lat": 37.63909719999999,
       "lon": -120.99687819999997,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Davis",
       "lat": 38.5449065,
       "lon": -121.7405167,
-      "stage": "patchy",
+      "stage": "near",
       "observedAt": null
     },
     {
